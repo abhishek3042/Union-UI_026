@@ -45,6 +45,66 @@
      letter-spacing: -1px;
  }
 
+ .smallBoxes {
+     height: 200px;
+     width: 200px;
+     background-color: #fff;
+ }
+
+ .overflowBox {
+     width: 60%;
+     display: grid;
+     grid-template-columns: repeat(8, 1fr);
+     gap: 30px;
+     height: 60%;
+     overflow-y: hidden;
+     overflow-x: scroll;
+     scrollbar-color: rgb(0, 0, 0);
+
+ }
+
+ .innerNewDroper {
+     width: 90%;
+     display: grid;
+     margin: 30px auto;
+     grid-template-columns: repeat(8, 1fr);
+     gap: 30px;
+     height: 60%;
+     overflow-y: hidden;
+     overflow-x: scroll;
+     padding-bottom: 40px;
+     scrollbar-color: rgb(0, 0, 0);
+
+ }
+
+ .innerNewDroper p {
+     margin-top: 20px;
+
+ }
+
+ .newDroperBoxes {
+     height: 350px;
+     width: 300px;
+     background-color: #fff;
+     overflow: hidden;
+
+ }
+
+ .backgroundImage1 {
+     background-image: url('https://www.casio.com/content/casio/locales/in/en/products/_jcr_content/root/responsivegrid/teaser_1897153092_co.casiocoreimg.png/1684224575371/scientific-calculators-notext-cpd-1920x816.png');
+     height: 500px;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+ }
+
+ .backgroundImage2 {
+     background-image: url('https://www.casio.com/content/casio/locales/in/en/products/_jcr_content/root/responsivegrid/teaser_1897153092.casiocoreimg.jpeg/1691986502988/privia-casio-banner.jpeg');
+     height: 400px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
  input {
      border: none;
      border-bottom: 1px solid black;
