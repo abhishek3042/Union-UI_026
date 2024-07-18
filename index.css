@@ -1,0 +1,156 @@
+ @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+ * {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+     font-family: "Noto Sans", sans-serif;
+ }
+
+ html::-webkit-scrollbar {
+     width: 10px;
+
+ }
+
+ .container {
+     max-width: 1340px;
+     margin: auto;
+ }
+
+ header {
+     padding: 10px;
+     background-color: white;
+
+     /* -webkit-box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.63);
+     -moz-box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.63);
+     box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.63); */
+ }
+
+ nav {
+     width: 100%;
+     display: flex;
+
+     z-index: 1111111111111111111;
+     background-color: white;
+     margin: auto;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ a {
+     color: black;
+     text-decoration: none;
+     margin-left: 20px;
+     font-size: 14px;
+     letter-spacing: -1px;
+ }
+
+ input {
+     border: none;
+     border-bottom: 1px solid black;
+     padding-left: 35px;
+ }
+
+ .logo {
+     height: 40px;
+     width: 100px;
+ }
+
+ .hiddenSection {
+     height: 0px;
+     width: 250%;
+     position: absolute;
+     background-color: #fff;
+     left: -305px;
+     top: 40px;
+     transition: 0.3s;
+     display: flex;
+     justify-content: end;
+     align-items: center;
+     box-shadow: 1px 2px 4px black;
+     z-index: 999999999999999;
+ }
+
+ .hiddenSection2 {
+     height: 0px;
+     width: 250%;
+     position: absolute;
+     background-color: #fff;
+     left: -305px;
+     top: 40px;
+     transition: 0.3s;
+     z-index: 999999999999999;
+     box-shadow: 1px 2px 4px black;
+ }
+
+ .dropdown {
+     display: flex;
+     /* width: 100%; */
+
+
+ }
+
+ .d2:hover .hiddenSection2 {
+     height: 200px;
+
+ }
+
+ .d2:hover .dd {
+     display: block;
+ }
+
+ .d1:hover .hiddenSection {
+     height: 400px;
+ }
+
+ a:hover {
+     text-decoration: underline;
+ }
+
+ .dd {
+     display: none;
+     margin: 40px auto;
+ }
+
+ .hiddenSection>div::-webkit-scrollbar {
+     height: 4px;
+ }
+
+ .newDroper {
+     padding: 40px;
+ }
+
+ .newDroper>div>div>img:hover {
+     transform: scale(1.1, 1.1);
+     transition: 1s;
+     /* box-shadow: 2px 4px 6px black; */
+ }
+
+ .newDroper h1 {
+     margin-left: 30px;
+ }
+
+ .newDroper>div::-webkit-scrollbar {
+     height: 4px;
+ }
+
+ ::-webkit-scrollbar-track {
+     background: grey;
+     border-radius: 20px;
+ }
+
+ ::-webkit-scrollbar-thumb {
+     background-color: black;
+     border-radius: 20px;
+     cursor: pointer;
+ }
+
+ input:focus {
+     outline: none;
+ }
+
+ @media (max-width: 996px) {
+     .dropdown {
+         display: none;
+     }
+ }
