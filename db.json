@@ -1,863 +1,1044 @@
-{"Watches":[
+{
+  "Watches": [
     {
-        "sku": "PRW-61SS-2DR",
-        "product_name": "PRW-61SS-2",
-        "product_type": "Normal Product",
-        "main_product_name": "PRW-61SS-2",
-        "tag": "CASIO WATCH 50TH ANNIVERSARY",
-        "image": "www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-61ss-2/assets/PRW-61SS-2.png.transform/product-panel/image.png",
-        "title": "PRO TREK",
-        "code": "PRW-61SS-2",
-        "price":  29995 
+      "sku": "PRW-61SS-2DR",
+      "product_name": "PRW-61SS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "PRW-61SS-2",
+      "tag": "CASIO WATCH 50TH ANNIVERSARY",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-61ss-2/assets/PRW-61SS-2.png.transform/product-panel/image.png",
+      "title": "PRO TREK",
+      "code": "PRW-61SS-2",
+      "price": 29995
     },
     {
-        "sku": "GMW-B5000SS-2DR",
-        "product_name": "GMW-B5000SS-2",
-        "product_type": "Normal Product",
-        "main_product_name": "GMW-B5000SS-2",
-        "tag": "CASIO WATCH 50TH ANNIVERSARY",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMW/gmw-b5000ss-2/assets/GMW-B5000SS-2.png.transform/product-panel/image.png",
-        "title": "G-SHOCK",
-        "code": "GMW-B5000SS-2",
-        "price":  49995 
+      "sku": "GMW-B5000SS-2DR",
+      "product_name": "GMW-B5000SS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "GMW-B5000SS-2",
+      "tag": "CASIO WATCH 50TH ANNIVERSARY",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMW/gmw-b5000ss-2/assets/GMW-B5000SS-2.png.transform/product-panel/image.png",
+      "title": "G-SHOCK",
+      "code": "GMW-B5000SS-2",
+      "price": 49995
     },
     {
-        "sku": "GA-2100MNG-2ADR",
-        "product_name": "GA-2100MNG-2A",
-        "product_type": "Normal Product",
-        "main_product_name": "GA-2100MNG-2A",
-        "tag": "NEW",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-2a/assets/GA-2100MNG-2A.png.transform/product-panel/image.png",
-        "title": "G-SHOCK",
-        "code": "GA-2100MNG-2A",
-        "price":  11495 
+      "sku": "GA-2100MNG-2ADR",
+      "product_name": "GA-2100MNG-2A",
+      "product_type": "Normal Product",
+      "main_product_name": "GA-2100MNG-2A",
+      "tag": "NEW",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-2a/assets/GA-2100MNG-2A.png.transform/product-panel/image.png",
+      "title": "G-SHOCK",
+      "code": "GA-2100MNG-2A",
+      "price": 11495
     },
     {
-        "sku": "GA-2100MNG-7ADR",
-        "product_name": "GA-2100MNG-7A",
-        "product_type": "Normal Product",
-        "main_product_name": "GA-2100MNG-7A",
-        "tag": "NEW",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-7a/assets/GA-2100MNG-7A.png.transform/product-panel/image.png",
-        "title": "G-SHOCK",
-        "code": "GA-2100MNG-7A",
-        "price":  11495 
+      "sku": "GA-2100MNG-7ADR",
+      "product_name": "GA-2100MNG-7A",
+      "product_type": "Normal Product",
+      "main_product_name": "GA-2100MNG-7A",
+      "tag": "NEW",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-7a/assets/GA-2100MNG-7A.png.transform/product-panel/image.png",
+      "title": "G-SHOCK",
+      "code": "GA-2100MNG-7A",
+      "price": 11495
     },
     {
-        "sku": "G-5600SRF-1DR",
-        "product_name": "G-5600SRF-1",
-        "product_type": "Normal Product",
-        "main_product_name": "G-5600SRF-1",
-        "tag": "SURFRIDER FOUNDATION collaboration model",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/G5/G56/g-5600srf-1/assets/G-5600SRF-1.png.transform/product-panel/image.png",
-        "title": "G-SHOCK",
-        "code": "G-5600SRF-1",
-        "price":  9995 
+      "sku": "G-5600SRF-1DR",
+      "product_name": "G-5600SRF-1",
+      "product_type": "Normal Product",
+      "main_product_name": "G-5600SRF-1",
+      "tag": "SURFRIDER FOUNDATION collaboration model",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/G5/G56/g-5600srf-1/assets/G-5600SRF-1.png.transform/product-panel/image.png",
+      "title": "G-SHOCK",
+      "code": "G-5600SRF-1",
+      "price": 9995
     },
     {
-        "sku": "GMD-S5600EP-9DR",
-        "product_name": "GMD-S5600EP-9",
-        "product_type": "Normal Product",
-        "main_product_name": "GMD-S5600EP-9",
-        
-        "tag": "NEW",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMD/gmd-s5600ep-9/assets/GMD-S5600EP-9.png.transform/product-panel/image.png",
-        "title": "G-SHOCK",
-        "code": "GMD-S5600EP-9",
-        "price":  7995 
+      "sku": "GMD-S5600EP-9DR",
+      "product_name": "GMD-S5600EP-9",
+      "product_type": "Normal Product",
+      "main_product_name": "GMD-S5600EP-9",
+      "tag": "NEW",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMD/gmd-s5600ep-9/assets/GMD-S5600EP-9.png.transform/product-panel/image.png",
+      "title": "G-SHOCK",
+      "code": "GMD-S5600EP-9",
+      "price": 7995
     },
-      {
-        "sku": "ECB-2000SS-2ADR",
-        "product_name": "ECB-2000SS-2A",
-        "productType": "Normal Product",
-        "main_product_name": "ECB-2000SS-2A",
-        "title":"CASIO",
-        "price":27495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2000ss-2a/assets/ECB-2000SS-2A.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "TRN-50SS-2ADR",
-        "product_name": "TRN-50SS-2A",
-        "productType": "Normal Product",
-        "main_product_name": "TRN-50SS-2A",
-        "title":"CASIO",
-        "price":42495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-E340D-1AVDF",
-        "product_name": "MTP-E340D-1AV",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-E340D-1AV",
-        "title":"CASIO",
-        "price":6495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-1av/assets/MTP-E340D-1AV.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-E340D-2AVDF",
-        "product_name": "MTP-E340D-2AV",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-E340D-2AV",
-        "title":"CASIO",
-        "price":6495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-2av/assets/MTP-E340D-2AV.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-E340D-3AVDF",
-        "product_name": "MTP-E340D-3AV",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-E340D-3AV",
-        "title":"CASIO",
-        "price":6495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-3av/assets/MTP-E340D-3AV.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-E340D-7AVDF",
-        "product_name": "MTP-E340D-7AV",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-E340D-7AV",
-        "title":"CASIO",
-        "price":6495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-7av/assets/MTP-E340D-7AV.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-VD01D-3BVUDF",
-        "product_name": "MTP-VD01D-3BV",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-VD01D-3BV",
-        "title":"CASIO",
-        "price":3395 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3bv/assets/MTP-VD01D-3BVU.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-VD01D-3E1VUDF",
-        "product_name": "MTP-VD01D-3E1V",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-VD01D-3E1V",
-        "title":"CASIO",
-        "price":3395 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e1v/assets/MTP-VD01D-3E1VU.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-VD01D-3E2VUDF",
-        "product_name": "MTP-VD01D-3E2V",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-VD01D-3E2V",
-        "title":"CASIO",
-        "price":3395 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e2v/assets/MTP-VD01D-3E2VU.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "MTP-VD01D-4BVUDF",
-        "product_name": "MTP-VD01D-4BV",
-        "productType": "Normal Product",
-        "main_product_name": "MTP-VD01D-4BV",
-        "title":"CASIO",
-        "price":3395 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-4bv/assets/MTP-VD01D-4BVU.png.transform/product-panel/image.png"
-      },
+    {
+      "sku": "ECB-2000SS-2ADR",
+      "product_name": "ECB-2000SS-2A",
+      "productType": "Normal Product",
+      "main_product_name": "ECB-2000SS-2A",
+      "title": "CASIO",
+      "price": 27495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2000ss-2a/assets/ECB-2000SS-2A.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "TRN-50SS-2ADR",
+      "product_name": "TRN-50SS-2A",
+      "productType": "Normal Product",
+      "main_product_name": "TRN-50SS-2A",
+      "title": "CASIO",
+      "price": 42495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-E340D-1AVDF",
+      "product_name": "MTP-E340D-1AV",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-E340D-1AV",
+      "title": "CASIO",
+      "price": 6495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-1av/assets/MTP-E340D-1AV.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-E340D-2AVDF",
+      "product_name": "MTP-E340D-2AV",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-E340D-2AV",
+      "title": "CASIO",
+      "price": 6495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-2av/assets/MTP-E340D-2AV.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-E340D-3AVDF",
+      "product_name": "MTP-E340D-3AV",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-E340D-3AV",
+      "title": "CASIO",
+      "price": 6495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-3av/assets/MTP-E340D-3AV.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-E340D-7AVDF",
+      "product_name": "MTP-E340D-7AV",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-E340D-7AV",
+      "title": "CASIO",
+      "price": 6495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-7av/assets/MTP-E340D-7AV.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-VD01D-3BVUDF",
+      "product_name": "MTP-VD01D-3BV",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-VD01D-3BV",
+      "title": "CASIO",
+      "price": 3395,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3bv/assets/MTP-VD01D-3BVU.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-VD01D-3E1VUDF",
+      "product_name": "MTP-VD01D-3E1V",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-VD01D-3E1V",
+      "title": "CASIO",
+      "price": 3395,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e1v/assets/MTP-VD01D-3E1VU.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-VD01D-3E2VUDF",
+      "product_name": "MTP-VD01D-3E2V",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-VD01D-3E2V",
+      "title": "CASIO",
+      "price": 3395,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e2v/assets/MTP-VD01D-3E2VU.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTP-VD01D-4BVUDF",
+      "product_name": "MTP-VD01D-4BV",
+      "productType": "Normal Product",
+      "main_product_name": "MTP-VD01D-4BV",
+      "title": "CASIO",
+      "price": 3395,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-4bv/assets/MTP-VD01D-4BVU.png.transform/product-panel/image.png"
+    },
     {
       "sku": "MTP-VD01D-6BVUDF",
       "product_name": "MTP-VD01D-6BV",
       "productType": "Normal Product",
       "main_product_name": "MTP-VD01D-6BV",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-6bv/assets/MTP-VD01D-6BVU.png.transform/product-panel/image.png",
-      "price":3395 
-      
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-6bv/assets/MTP-VD01D-6BVU.png.transform/product-panel/image.png",
+      "price": 3395
     },
     {
       "sku": "MTP-VD01D-9EVUDF",
       "product_name": "MTP-VD01D-9EV",
       "productType": "Normal Product",
       "main_product_name": "MTP-VD01D-9EV",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-9ev/assets/MTP-VD01D-9EVU.png.transform/product-panel/image.png",
-      "price":3395 
-      
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-9ev/assets/MTP-VD01D-9EVU.png.transform/product-panel/image.png",
+      "price": 3395
     },
     {
       "sku": "WS-B1000-1AVDF",
       "product_name": "WS-B1000-1AV",
       "productType": "Normal Product",
       "main_product_name": "WS-B1000-1AV",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-b1000-1av/assets/WS-B1000-1AV.png.transform/product-panel/image.png",
-      "price":4495 
-          },
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-b1000-1av/assets/WS-B1000-1AV.png.transform/product-panel/image.png",
+      "price": 4495
+    },
     {
       "sku": "WS-B1000-2AVDF",
       "product_name": "WS-B1000-2AV",
       "productType": "Normal Product",
       "main_product_name": "WS-B1000-2AV",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-b1000-2av/assets/WS-B1000-2AV.png.transform/product-panel/image.png",
-      "price":4995 
-          
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-b1000-2av/assets/WS-B1000-2AV.png.transform/product-panel/image.png",
+      "price": 4995
     },
     {
       "sku": "A168WEUC-1ADR",
       "product_name": "A168WEUC-1A",
       "productType": "Normal Product",
       "main_product_name": "A168WEUC-1A",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/A1/A16/a168weuc-1a/assets/A168WEUC-1A.png.transform/product-panel/image.png",
-      "price":7995 
-         },
-    {
-      "sku": "WS-1200H-3AVDF",
-      "product_name": "WS-1200H-3AV",
-      "productType": "Normal Product",
-      "main_product_name": "WS-1200H-3AV",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-1200h-3av/assets/WS-1200H-3AV.png.transform/product-panel/image.png",
-      "price":2495 
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/A1/A16/a168weuc-1a/assets/A168WEUC-1A.png.transform/product-panel/image.png",
+      "price": 7995
     },
     {
       "sku": "AQ-800E-3ADF",
       "product_name": "AQ-800E-3A",
       "productType": "Normal Product",
       "main_product_name": "AQ-800E-3A",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/AQ/aq8/aq-800e-3a/assets/AQ-800E-3A.png.transform/product-panel/image.png",
-      "price":4795 
-        },
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/AQ/aq8/aq-800e-3a/assets/AQ-800E-3A.png.transform/product-panel/image.png",
+      "price": 4795
+    },
     {
       "sku": "AQ-800E-7A2DF",
       "product_name": "AQ-800E-7A2",
       "productType": "Normal Product",
       "main_product_name": "AQ-800E-7A2",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/AQ/aq8/aq-800e-7a2/assets/AQ-800E-7A2.png.transform/product-panel/image.png",
-      "price":4795 
-         },
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/AQ/aq8/aq-800e-7a2/assets/AQ-800E-7A2.png.transform/product-panel/image.png",
+      "price": 4795
+    },
     {
       "sku": "PRW-35-7DR",
       "product_name": "PRW-35-7",
       "productType": "Normal Product",
       "main_product_name": "PRW-35-7",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-35-7/assets/PRW-35-7.png.transform/product-panel/image.png",
-      "price":15995 
-        },
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-35-7/assets/PRW-35-7.png.transform/product-panel/image.png",
+      "price": 15995
+    },
     {
       "sku": "PRW-35Y-2DR",
       "product_name": "PRW-35Y-2",
       "productType": "Normal Product",
       "main_product_name": "PRW-35Y-2",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-35y-2/assets/PRW-35Y-2.png.transform/product-panel/image.png",
-      "price":16495 
-         },
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-35y-2/assets/PRW-35Y-2.png.transform/product-panel/image.png",
+      "price": 16495
+    },
     {
       "sku": "GM-S2100CB-5ADR",
       "product_name": "GM-S2100CB-5A",
       "productType": "Normal Product",
       "main_product_name": "GM-S2100CB-5A",
-      "title":"CASIO",
-      "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cb-5a/assets/GM-S2100CB-5A.png.transform/product-panel/image.png",
-      "price":17495 
-
-    },
-      {
-        "sku": "GM-S2100CW-7ADR",
-        "product_name": "GM-S2100CW-7A",
-        "productType": "Normal Product",
-        "main_product_name": "GM-S2100CW-7A",
-        "title":"CASIO",
-        "price":16495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cw-7a/assets/GM-S2100CW-7A.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GMS-S5600RT-4DR",
-        "product_name": "GMS-S5600RT-4",
-        "productType": "Normal Product",
-        "main_product_name": "GMS-S5600RT-4",
-        "title":"CASIO",
-        "price":8995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-4/assets/GMS-S5600RT-4.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GMS-S5600RT-7DR",
-        "product_name": "GMS-S5600RT-7",
-        "productType": "Normal Product",
-        "main_product_name": "GMS-S5600RT-7",
-        "title":"CASIO",
-        "price":8995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-7/assets/GMS-S5600RT-7.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GLX-S5600-2DR",
-        "product_name": "GLX-S5600-2",
-        "productType": "Normal Product",
-        "main_product_name": "GLX-S5600-2",
-        "title":"CASIO",
-        "price":5295 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-2/assets/GLX-S5600-2.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GLX-S5600-7BDR",
-        "product_name": "GLX-S5600-7B",
-        "productType": "Normal Product",
-        "main_product_name": "GLX-S5600-7B",
-        "title":"CASIO",
-        "price":5295 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-7b/assets/GLX-S5600-7B.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GBX-100-2ADR",
-        "product_name": "GBX-100-2A",
-        "productType": "Normal Product",
-        "main_product_name": "GBX-100-2A",
-        "title":"CASIO",
-        "price":14995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-2a/assets/GBX-100-2A.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GBX-100-8DR",
-        "product_name": "GBX-100-8",
-        "productType": "Normal Product",
-        "main_product_name": "GBX-100-8",
-        "title":"CASIO",
-        "price":14995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-8/assets/GBX-100-8.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GR-B300-1ADR",
-        "product_name": "GR-B300-1A",
-        "productType": "Normal Product",
-        "main_product_name": "GR-B300-1A",
-        "title":"CASIO",
-        "price":22995 ,
-         "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a/assets/GR-B300-1A.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GR-B300-1A4DR",
-        "product_name": "GR-B300-1A4",
-        "productType": "Normal Product",
-        "main_product_name": "GR-B300-1A4",
-        "price":22995 ,
-        "title":"CASIO",
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a4/assets/GR-B300-1A4.png.transform/product-panel/image.png"
-      },
-      {
-        "sku": "GR-B300-8A2DR",
-        "product_name": "GR-B300-8A2",
-        "productType": "Normal Product",
-        "main_product_name": "GR-B300-8A2",
-        "price":22995 ,
-        "title":"CASIO",
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-8a2/assets/GR-B300-8A2.png.transform/product-panel/image.png"
-      },
-    {
-        "sku": "MTG-B3000DN-1ADR",
-        "product_name": "MTG-B3000DN-1A",
-        "product_type": "Normal Product",
-        "main_product_name": "MTG-B3000DN-1A",
-        "title": "G-SHOCK",
-        "code": "MTG-B3000DN-1A",
-        "price":89995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTG/mtg-b3000dn-1a/assets/MTG-B3000DN-1A.png.transform/product-panel/image.png"
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cb-5a/assets/GM-S2100CB-5A.png.transform/product-panel/image.png",
+      "price": 17495
     },
     {
-        "sku": "EQS-960D-1AVUDF",
-        "product_name": "EQS-960D-1AV",
-        "product_type": "Normal Product",
-        "main_product_name": "EQS-960D-1AV",
-        "title": "EDIFICE",
-        "code": "EQS-960D-1AV",
-        "price":13995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960d-1av/assets/EQS-960D-1AVU.png.transform/product-panel/image.png"
+      "sku": "GM-S2100CW-7ADR",
+      "product_name": "GM-S2100CW-7A",
+      "productType": "Normal Product",
+      "main_product_name": "GM-S2100CW-7A",
+      "title": "CASIO",
+      "price": 16495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cw-7a/assets/GM-S2100CW-7A.png.transform/product-panel/image.png"
     },
     {
-        "sku": "EQS-960DC-1AVUDF",
-        "product_name": "EQS-960DC-1AV",
-        "product_type": "Normal Product",
-        "main_product_name": "EQS-960DC-1AV",
-        "title": "EDIFICE",
-        "code": "EQS-960DC-1AV",
-        "price":16995 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960dc-1av/assets/EQS-960DC-1AVU.png.transform/product-panel/image.png"
+      "sku": "GMS-S5600RT-4DR",
+      "product_name": "GMS-S5600RT-4",
+      "productType": "Normal Product",
+      "main_product_name": "GMS-S5600RT-4",
+      "title": "CASIO",
+      "price": 8995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-4/assets/GMS-S5600RT-4.png.transform/product-panel/image.png"
     },
     {
-        "sku": "EQS-960PB-1AVUDF",
-        "product_name": "EQS-960PB-1AV",
-        "product_type": "Normal Product",
-        "main_product_name": "EQS-960PB-1AV",
-        "title": "EDIFICE",
-        "code": "EQS-960PB-1AV",
-        "price":15495 ,
-        "image": "/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960pb-1av/assets/EQS-960PB-1AVU.png.transform/product-panel/image.png"
+      "sku": "GMS-S5600RT-7DR",
+      "product_name": "GMS-S5600RT-7",
+      "productType": "Normal Product",
+      "main_product_name": "GMS-S5600RT-7",
+      "title": "CASIO",
+      "price": 8995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-7/assets/GMS-S5600RT-7.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GLX-S5600-2DR",
+      "product_name": "GLX-S5600-2",
+      "productType": "Normal Product",
+      "main_product_name": "GLX-S5600-2",
+      "title": "CASIO",
+      "price": 5295,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-2/assets/GLX-S5600-2.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GLX-S5600-7BDR",
+      "product_name": "GLX-S5600-7B",
+      "productType": "Normal Product",
+      "main_product_name": "GLX-S5600-7B",
+      "title": "CASIO",
+      "price": 5295,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-7b/assets/GLX-S5600-7B.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GBX-100-2ADR",
+      "product_name": "GBX-100-2A",
+      "productType": "Normal Product",
+      "main_product_name": "GBX-100-2A",
+      "title": "CASIO",
+      "price": 14995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-2a/assets/GBX-100-2A.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GBX-100-8DR",
+      "product_name": "GBX-100-8",
+      "productType": "Normal Product",
+      "main_product_name": "GBX-100-8",
+      "title": "CASIO",
+      "price": 14995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-8/assets/GBX-100-8.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GR-B300-1ADR",
+      "product_name": "GR-B300-1A",
+      "productType": "Normal Product",
+      "main_product_name": "GR-B300-1A",
+      "title": "CASIO",
+      "price": 22995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a/assets/GR-B300-1A.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GR-B300-1A4DR",
+      "product_name": "GR-B300-1A4",
+      "productType": "Normal Product",
+      "main_product_name": "GR-B300-1A4",
+      "price": 22995,
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a4/assets/GR-B300-1A4.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "GR-B300-8A2DR",
+      "product_name": "GR-B300-8A2",
+      "productType": "Normal Product",
+      "main_product_name": "GR-B300-8A2",
+      "price": 22995,
+      "title": "CASIO",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-8a2/assets/GR-B300-8A2.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "MTG-B3000DN-1ADR",
+      "product_name": "MTG-B3000DN-1A",
+      "product_type": "Normal Product",
+      "main_product_name": "MTG-B3000DN-1A",
+      "title": "G-SHOCK",
+      "code": "MTG-B3000DN-1A",
+      "price": 89995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTG/mtg-b3000dn-1a/assets/MTG-B3000DN-1A.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "EQS-960D-1AVUDF",
+      "product_name": "EQS-960D-1AV",
+      "product_type": "Normal Product",
+      "main_product_name": "EQS-960D-1AV",
+      "title": "EDIFICE",
+      "code": "EQS-960D-1AV",
+      "price": 13995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960d-1av/assets/EQS-960D-1AVU.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "EQS-960DC-1AVUDF",
+      "product_name": "EQS-960DC-1AV",
+      "product_type": "Normal Product",
+      "main_product_name": "EQS-960DC-1AV",
+      "title": "EDIFICE",
+      "code": "EQS-960DC-1AV",
+      "price": 16995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960dc-1av/assets/EQS-960DC-1AVU.png.transform/product-panel/image.png"
+    },
+    {
+      "sku": "EQS-960PB-1AVUDF",
+      "product_name": "EQS-960PB-1AV",
+      "product_type": "Normal Product",
+      "main_product_name": "EQS-960PB-1AV",
+      "title": "EDIFICE",
+      "code": "EQS-960PB-1AV",
+      "price": 15495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960pb-1av/assets/EQS-960PB-1AVU.png.transform/product-panel/image.png"
     }
-],
-"Musical_Instruments":[
+  ],
+  "Musical_Instruments": [
     {
-        "sku": "CT-X8000INC2",
-        "product_name": "CT-X8000IN",
-        "title": "Localized Keyboards",
-        "price": "₹ 21,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X8000IN/assets/CT-X8000IN_F.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X8000IN/",
-        "description": "61 keys / Arranger Indian Keyboard"
-      },
-      {
-        "sku": "CT-X870INC2",
-        "product_name": "CT-X870IN",
-        "title": "Localized Keyboards",
-        "price": "₹ 15,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X870IN/assets/CT-X870IN_F.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X870IN/",
-        "description": "61 keys / Arranger Indian Keyboard"
-      },
-      {
-        "sku": "CT-X9000INC2",
-        "product_name": "CT-X9000IN",
-        "title": "Localized Keyboards",
-        "price": "₹ 26,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X9000IN/assets/CT-X9000IN_F.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X9000IN/",
-        "description": "61 keys / Arranger Indian Keyboard"
-      },
-      {
-        "sku": "CT-S195C2",
-        "product_name": "CT-S195",
-        "title": "Others",
-        "price": "₹ 7,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S195/assets/cts195_mainimage.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S195/",
-        "description": "61 keys / CASIO MUSIC SPACE APP"
-      },
-      {
-        "sku": "SA-46AH2-IN",
-        "product_name": "SA-46",
-        "title": "Others",
-        "price": "₹ 3,295 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-46/assets/SA-46_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-46/",
-        "description": ""
-      },
-      {
-        "sku": "SA-76AH2-IN",
-        "product_name": "SA-76",
-        "title": "Others",
-        "price": "₹ 4,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-76/assets/SA-76_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-76/",
-        "description": ""
-      },
-      {
-        "sku": "SA-47AH2-IN",
-        "product_name": "SA-47",
-        "title": "Others",
-        "price": "₹ 3,295 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-47/assets/SA-47_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-47/",
-        "description": ""
-      },
-      {
-        "sku": "SA-77AH2-IN",
-        "product_name": "SA-77",
-        "title": "Others",
-        "price": "₹ 4,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-77/assets/SA-77_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-77/",
-        "description": ""
-      },
-      {
-        "sku": "WK-7600K2",
-        "product_name": "WK-7600",
-        "title": "Others",
-        "price": "₹ 34,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/W/WK/WK7/WK-7600/assets/WK-7600_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.WK-7600/",
-        "description": ""
-      },
-      {
-        "sku": "CTK-2550K2",
-        "product_name": "CTK-2550",
-        "title": "Others",
-        "price": "₹ 10,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-2550/assets/CTK-2550_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-2550/",
-        "description": ""
-      },
-      {
-        "sku": "CTK-3500K2",
-        "product_name": "CTK-3500",
-        "title": "Others",
-        "price": "₹ 11,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-3500/assets/CTK-3500_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-3500/",
-        "description": ""
-      },
-      {
-        "sku": "WK-6600K2",
-        "product_name": "WK-6600",
-        "title": "Others",
-        "price": "₹ 24,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/W/WK/WK6/WK-6600/assets/WK-6600_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.WK-6600/",
-        "description": ""
-      },
-      {
-        "sku": "SA-78AH2-IN",
-        "product_name": "SA-78",
-        "title": "Others",
-        "price": "₹ 4,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-78/assets/SA-78_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-78/",
-        "description": ""
-      },
-      {
-        "sku": "CTK-240H2",
-        "product_name": "CTK-240",
-        "title": "Others",
-        "price": "₹ 7,195 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-240/assets/CTK-240_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-240/",
-        "description": ""
-      },
-      {
-        "sku": "SA-46AH2-IN",
-        "product_name": "SA-46",
-        "title": "Others",
-        "price": "₹ 3,295 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-46/assets/SA-46_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-46/",
-        "description": ""
-      },
-      {
-        "sku": "CT-S1BKC2",
-        "product_name": "CT-S1BK",
-        "title": "Casiotone",
-        "price": "₹16,995",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1BK/assets/CT-S1BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1BK/",
-        "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP"
-      },
-      {
-        "sku": "CT-S200BKC2",
-        "product_name": "CT-S200BK",
-        "title": "Casiotone",
-        "price": "₹9,495",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200BK/assets/CT-S200BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200BK/",
-        "description": "61 keys / Slim & Stylish Portable Design"
-      },
-      {
-        "sku": "CT-S200RDC2",
-        "product_name": "CT-S200RD",
-        "title": "Casiotone",
-        "price": "₹9,495",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200RD/assets/CT-S200RD_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200RD/",
-        "description": "61 keys / Slim & Stylish Portable Design"
-      },
-      {
-        "sku": "CT-S200WEC2",
-        "product_name": "CT-S200WE",
-        "title": "Casiotone",
-        "price": "₹9,495",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200WE/assets/CT-S200WE_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200WE/",
-        "description": "61 keys / Slim & Stylish Portable Design"
-      },
-      {
-        "sku": "CT-S400C2",
-        "product_name": "CT-S400",
-        "title": "Casiotone",
-        "price": "₹17,495",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S400/assets/CT-S400_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S400/",
-        "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP"
-      },
-      {
-        "sku": "SA-80",
-        "product_name": "SA-80",
-        "title": "Casiotone Mini Keyboards",
-        "price": "₹5,495",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa-8/sa-80/assets/sa-80-img01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-80/",
-        "description": "44 keys / 100 Tones / 50 Rhythms"
-      },
-      {
-        "sku": "SA-81",
-        "name": "Casiotone Mini Keyboards",
-        "code": "SA-81",
-        "price": "₹ 5,495 (incl. of all taxes)",
-        "features": "44 keys / 100 Tones / 50 Rhythms",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa-8/sa-81/assets/sa-81-img01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-81/"
-      },
-      {
-        "sku": "PX-S7000HM",
-        "name": "Privia",
-        "code": "PX-S7000HM",
-        "price": "₹ 2,19,995 (incl. of all taxes)",
-        "features": "",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000hm/assets/px-s7000hm-main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000HM/"
-      },
-      {
-        "sku": "PX-S7000BK",
-        "name": "Privia",
-        "code": "PX-S7000BK",
-        "price": "₹ 1,99,995 (incl. of all taxes)",
-        "features": "",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000bk/assets/px-s7000bk-main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000BK/"
-      },
-      {
-        "sku": "PX-S7000WE",
-        "name": "Privia",
-        "code": "PX-S7000WE",
-        "price": "₹ 1,99,995 (incl. of all taxes)",
-        "features": "",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000we/assets/px-s7000we-main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000WE/"
-      },
-      {
-        "sku": "PX-S5000BK",
-        "name": "Privia",
-        "code": "PX-S5000BK",
-        "price": "₹ 99,995 (incl. of all taxes)",
-        "features": "",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s5000bk/assets/px-s5000-main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S5000BK/"
-      },
-      {
-        "sku": "SA-50",
-        "name": "Casiotone Mini Keyboards",
-        "code": "SA-50",
-        "price": "₹ 4,495 (incl. of all taxes)",
-        "features": "32keys / 100 Tones / 50 Rhythms",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa5/sa-50/assets/SA-50-img01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-50/"
-      },
-      {
-        "sku": "SA-51",
-        "name": "Casiotone Mini Keyboards",
-        "code": "SA-51",
-        "price": "₹ 4,495 (incl. of all taxes)",
-        "features": "32keys / 100 Tones / 50 Rhythms",
-        "image": "/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa5/sa-51/assets/SA-51-img01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-51/"
-      },
-      {
-        "sku": "CT-S1000V",
-        "product_name": "CT-S1000V",
-        "title": "Casiotone",
-        "price": "₹ 29,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/ct-s1000v/assets/ct-s1000v-main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1000V/",
-        "description": ""
-      },
-      {
-        "sku": "CDP-S360BKC2",
-        "product_name": "CDP-S360BK",
-        "title": "CDP",
-        "price": "₹ 54,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s360bk/assets/CDP-S360-main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S360BK/",
-        "description": "88 keys / Slim Body Design"
-      },
-      {
-        "sku": "CDP-S160BKC2",
-        "product_name": "CDP-S160BK",
-        "title": "CDP",
-        "price": "₹ 44,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s160bk/assets/CDP-S160BK_main04.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S160BK/",
-        "description": "88 keys / Slim Body Design"
-      },
-      {
-        "sku": "CDP-S160RDC2",
-        "product_name": "CDP-S160RD",
-        "title": "CDP",
-        "price": "",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s160rd/assets/CDP-S160RD.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S160RD/",
-        "description": ""
-      },
-      {
-        "sku": "CDP-S110BKC2",
-        "product_name": "CDP-S110BK",
-        "title": "CDP",
-        "price": "₹ 39,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s110bk/assets/CDP-S110BK_main04.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S110BK/",
-        "description": "88 keys / Slim Body Design"
-      },
-      {
-        "sku": "PX-S1100BKC2",
-        "product_name": "PX-S1100BK",
-        "title": "Privia",
-        "price": "₹ 59,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s1100bk/assets/PX-S1100BK_main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S1100BK/",
-        "description": ""
-      },
-      {
-        "sku": "PX-S1100RDC2",
-        "product_name": "PX-S1100RD",
-        "title": "Privia",
-        "price": "₹ 59,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s1100rd/assets/PX-S1100RD_main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S1100RD/",
-        "description": ""
-      },
-      {
-        "sku": "PX-S3100BK",
-        "product_name": "PX-S3100BK",
-        "title": "Privia",
-        "price": "₹ 76,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s3100bk/assets/PX-S3100BK_main01.png.transform/product-panel/image.png",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S3100BK/",
-        "description": ""
-      },
-      {
-        "sku": "CT-S1WEC2",
-        "product_name": "CT-S1WE",
-        "title": "Casiotone",
-        "price": "₹ 16,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1WE/assets/CT-S1WE_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1WE/",
-        "description": ""
-      },
-      {
-        "sku": "CT-S1RD",
-        "product_name": "CT-S1RD",
-        "title": "Casiotone",
-        "price": "₹ 16,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1RD/assets/CT-S1RD_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1RD/",
-        "description": ""
-      },
-      {
-        "sku": "CT-S300C2",
-        "product_name": "CT-S300",
-        "title": "Casiotone",
-        "price": "₹ 11,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S300/assets/CT-S300_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S300/",
-        "description": ""
-      },
-      {
-        "sku": "CT-S100C2",
-        "product_name": "CT-S100",
-        "title": "Casiotone",
-        "price": "₹ 8,295 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S100/assets/CT-S100_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S100/",
-        "description": ""
-      },
-      {
-        "sku": "LK-S250C2",
-        "product_name": "LK-S250",
-        "title": "Casiotone",
-        "price": "₹ 15,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/L/LK/LKS/LK-S250/assets/LK-S250_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.LK-S250/",
-        "description": ""
-      },
-      {
-        "sku": "CT-X700C2",
-        "product_name": "CT-X700",
-        "title": "CT-X",
-        "price": "₹ 13,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X700/assets/CT-X700_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X700/",
-        "description": ""
-      },
-      {
-        "sku": "AP-470BKC2",
-        "product_name": "AP-470BK",
-        "title": "CELVIANO",
-        "price": "₹ 92,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP4/AP-470BK/assets/AP-470BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-470BK/",
-        "description": ""
-      },
-      {
-        "sku": "AP-270BKC2",
-        "product_name": "AP-270BK",
-        "title": "CELVIANO",
-        "price": "₹ 76,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP2/AP-270BK/assets/AP-270BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-270BK/",
-        "description": ""
-      },
-      {
-        "sku": "PX-770BKC2",
-        "product_name": "PX-770BK",
-        "title": "Privia",
-        "price": "₹ 69,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX7/PX-770BK/assets/PX-770BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-770BK/",
-        "description": ""
-      },
-      {
-        "sku": "PX-870BKC2",
-        "product_name": "PX-870BK",
-        "title": "Privia",
-        "price": "₹ 89,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX8/PX-870BK/assets/PX-870BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-870BK/",
-        "description": ""
-      },
-      {
-        "sku": "LK-S250C2",
-        "product_name": "LK-S250",
-        "title": "Casiotone",
-        "price": "₹ 15,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/L/LK/LKS/LK-S250/assets/LK-S250_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.LK-S250/",
-        "description": ""
-      },
-      {
-        "sku": "CT-X700C2",
-        "product_name": "CT-X700",
-        "title": "CT-X",
-        "price": "₹ 13,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X700/assets/CT-X700_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X700/",
-        "description": ""
-      },
-      {
-        "sku": "AP-470BKC2",
-        "product_name": "AP-470BK",
-        "title": "CELVIANO",
-        "price": "₹ 92,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP4/AP-470BK/assets/AP-470BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-470BK/",
-        "description": ""
-      },
-      {
-        "sku": "AP-270BKC2",
-        "product_name": "AP-270BK",
-        "title": "CELVIANO",
-        "price": "₹ 76,495 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP2/AP-270BK/assets/AP-270BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-270BK/",
-        "description": ""
-      },
-      {
-        "sku": "PX-770BKC2",
-        "product_name": "PX-770BK",
-        "title": "Privia",
-        "price": "₹ 69,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX7/PX-770BK/assets/PX-770BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-770BK/",
-        "description": ""
-      },
-      {
-        "sku": "PX-870BKC2",
-        "product_name": "PX-870BK",
-        "title": "Privia",
-        "price": "₹ 89,995 (incl. of all taxes)",
-        "image_src": "/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX8/PX-870BK/assets/PX-870BK_Seq1.jpg.transform/product-panel/image.jpg",
-        "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-870BK/",
-        "description": ""
-      }
+      "sku": "CT-X8000INC2",
+      "product_name": "CT-X8000IN",
+      "title": "Localized Keyboards",
+      "price": 21995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X8000IN/assets/CT-X8000IN_F.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X8000IN/",
+      "description": "61 keys / Arranger Indian Keyboard"
+    },
+    {
+      "sku": "CT-X870INC2", 
+      "product_name": "CT-X870IN",
+      "title": "Localized Keyboards",
+      "price": 15495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X870IN/assets/CT-X870IN_F.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X870IN/",
+      "description": "61 keys / Arranger Indian Keyboard"
+    },
+    {
+      "sku": "CT-X9000INC2",
+      "product_name": "CT-X9000IN",
+      "title": "Localized Keyboards",
+      "price": 26995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X9000IN/assets/CT-X9000IN_F.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X9000IN/",
+      "description": "61 keys / Arranger Indian Keyboard"
+    },
+    {
+      "sku": "CT-S195C2",
+      "product_name": "CT-S195",
+      "title": "Others",
+      "price": 7995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S195/assets/cts195_mainimage.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S195/",
+      "description": "61 keys / CASIO MUSIC SPACE APP"
+    },
+    {
+      "sku": "SA-46AH2-IN",
+      "product_name": "SA-46",
+      "title": "Others",
+      "price": 3295,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-46/assets/SA-46_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-46/",
+      "description": ""
+    },
+    {
+      "sku": "SA-76AH2-IN",
+      "product_name": "SA-76",
+      "title": "Others",
+      "price": 4495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-76/assets/SA-76_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-76/",
+      "description": ""
+    },
+    {
+      "sku": "SA-47AH2-IN",
+      "product_name": "SA-47",
+      "title": "Others",
+      "price": 3295,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-47/assets/SA-47_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-47/",
+      "description": ""
+    },
+    {
+      "sku": "SA-77AH2-IN",
+      "product_name": "SA-77",
+      "title": "Others",
+      "price": 4495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-77/assets/SA-77_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-77/",
+      "description": ""
+    },
+    {
+      "sku": "WK-7600K2",
+      "product_name": "WK-7600",
+      "title": "Others",
+      "price": 34995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/W/WK/WK7/WK-7600/assets/WK-7600_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.WK-7600/",
+      "description": ""
+    },
+    {
+      "sku": "CTK-2550K2",
+      "product_name": "CTK-2550",
+      "title": "Others",
+      "price": 10495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-2550/assets/CTK-2550_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-2550/",
+      "description": ""
+    },
+    {
+      "sku": "CTK-3500K2",
+      "product_name": "CTK-3500",
+      "title": "Others",
+      "price": 11995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-3500/assets/CTK-3500_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-3500/",
+      "description": ""
+    },
+    {
+      "sku": "WK-6600K2",
+      "product_name": "WK-6600",
+      "title": "Others",
+      "price": 24995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/W/WK/WK6/WK-6600/assets/WK-6600_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.WK-6600/",
+      "description": ""
+    },
+    {
+      "sku": "SA-78AH2-IN",
+      "product_name": "SA-78",
+      "title": "Others",
+      "price": 4495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-78/assets/SA-78_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-78/",
+      "description": ""
+    },
+    {
+      "sku": "CTK-240H2",
+      "product_name": "CTK-240",
+      "title": "Others",
+      "price": 7195,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-240/assets/CTK-240_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-240/",
+      "description": ""
+    },
+    {
+      "sku": "SA-46AH2-IN",
+      "product_name": "SA-46",
+      "title": "Others",
+      "price": 3295,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-46/assets/SA-46_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-46/",
+      "description": ""
+    },
+    {
+      "sku": "CT-S1BKC2",
+      "product_name": "CT-S1BK",
+      "title": "Casiotone",
+      "price": 16995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1BK/assets/CT-S1BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1BK/",
+      "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP"
+    },
+    {
+      "sku": "CT-S200BKC2",
+      "product_name": "CT-S200BK",
+      "title": "Casiotone",
+      "price": 9495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200BK/assets/CT-S200BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200BK/",
+      "description": "61 keys / Slim & Stylish Portable Design"
+    },
+    {
+      "sku": "CT-S200RDC2",
+      "product_name": "CT-S200RD",
+      "title": "Casiotone",
+      "price": 9495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200RD/assets/CT-S200RD_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200RD/",
+      "description": "61 keys / Slim & Stylish Portable Design"
+    },
+    {
+      "sku": "CT-S200WEC2",
+      "product_name": "CT-S200WE",
+      "title": "Casiotone",
+      "price": 9495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200WE/assets/CT-S200WE_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200WE/",
+      "description": "61 keys / Slim & Stylish Portable Design"
+    },
+    {
+      "sku": "CT-S400C2",
+      "product_name": "CT-S400",
+      "title": "Casiotone",
+      "price": 17495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S400/assets/CT-S400_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S400/",
+      "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP"
+    },
+    {
+      "sku": "SA-80",
+      "product_name": "SA-80",
+      "title": "Casiotone Mini Keyboards",
+      "price": 5495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa-8/sa-80/assets/sa-80-img01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-80/",
+      "description": "44 keys / 100 Tones / 50 Rhythms"
+    },
+    {
+      "sku": "SA-81",
+      "name": "Casiotone Mini Keyboards",
+      "code": "SA-81",
+      "price": 5495,
+      "features": "44 keys / 100 Tones / 50 Rhythms",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa-8/sa-81/assets/sa-81-img01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-81/"
+    },
+    {
+      "sku": "PX-S7000HM",
+      "name": "Privia",
+      "code": "PX-S7000HM",
+      "price": 219995,
+      "features": "",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000hm/assets/px-s7000hm-main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000HM/"
+    },
+    {
+      "sku": "PX-S7000BK",
+      "name": "Privia",
+      "code": "PX-S7000BK",
+      "price": 199995,
+      "features": "",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000bk/assets/px-s7000bk-main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000BK/"
+    },
+    {
+      "sku": "PX-S7000WE",
+      "name": "Privia",
+      "code": "PX-S7000WE",
+      "price": 199995,
+      "features": "",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000we/assets/px-s7000we-main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000WE/"
+    },
+    {
+      "sku": "PX-S5000BK",
+      "name": "Privia",
+      "code": "PX-S5000BK",
+      "price": 99995,
+      "features": "",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s5000bk/assets/px-s5000-main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S5000BK/"
+    },
+    {
+      "sku": "SA-50",
+      "name": "Casiotone Mini Keyboards",
+      "code": "SA-50",
+      "price": 4495,
+      "features": "32keys / 100 Tones / 50 Rhythms",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa5/sa-50/assets/SA-50-img01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-50/"
+    },
+    {
+      "sku": "SA-51",
+      "name": "Casiotone Mini Keyboards",
+      "code": "SA-51",
+      "price": 4495,
+      "features": "32keys / 100 Tones / 50 Rhythms",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa5/sa-51/assets/SA-51-img01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-51/"
+    },
+    {
+      "sku": "CT-S1000V",
+      "product_name": "CT-S1000V",
+      "title": "Casiotone",
+      "price": 29995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/ct-s1000v/assets/ct-s1000v-main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1000V/",
+      "description": ""
+    },
+    {
+      "sku": "CDP-S360BKC2",
+      "product_name": "CDP-S360BK",
+      "title": "CDP",
+      "price": 54995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s360bk/assets/CDP-S360-main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S360BK/",
+      "description": "88 keys / Slim Body Design"
+    },
+    {
+      "sku": "CDP-S160BKC2",
+      "product_name": "CDP-S160BK",
+      "title": "CDP",
+      "price": 44995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s160bk/assets/CDP-S160BK_main04.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S160BK/",
+      "description": "88 keys / Slim Body Design"
+    },
+    {
+      "sku": "CDP-S160RDC2",
+      "product_name": "CDP-S160RD",
+      "title": "CDP",
+      "price": 44995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s160rd/assets/CDP-S160RD.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S160RD/",
+      "description": ""
+    },
+    {
+      "sku": "CDP-S110BKC2",
+      "product_name": "CDP-S110BK",
+      "title": "CDP",
+      "price": 39995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s110bk/assets/CDP-S110BK_main04.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S110BK/",
+      "description": "88 keys / Slim Body Design"
+    },
+    {
+      "sku": "PX-S1100BKC2",
+      "product_name": "PX-S1100BK",
+      "title": "Privia",
+      "price": 59995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s1100bk/assets/PX-S1100BK_main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S1100BK/",
+      "description": ""
+    },
+    {
+      "sku": "PX-S1100RDC2",
+      "product_name": "PX-S1100RD",
+      "title": "Privia",
+      "price": 59995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s1100rd/assets/PX-S1100RD_main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S1100RD/",
+      "description": ""
+    },
+    {
+      "sku": "PX-S3100BK",
+      "product_name": "PX-S3100BK",
+      "title": "Privia",
+      "price": 76995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s3100bk/assets/PX-S3100BK_main01.png.transform/product-panel/image.png",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S3100BK/",
+      "description": ""
+    },
+    {
+      "sku": "CT-S1WEC2",
+      "product_name": "CT-S1WE",
+      "title": "Casiotone",
+      "price": 16995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1WE/assets/CT-S1WE_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1WE/",
+      "description": ""
+    },
+    {
+      "sku": "CT-S1RD",
+      "product_name": "CT-S1RD",
+      "title": "Casiotone",
+      "price": 16995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1RD/assets/CT-S1RD_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1RD/",
+      "description": ""
+    },
+    {
+      "sku": "CT-S300C2",
+      "product_name": "CT-S300",
+      "title": "Casiotone",
+      "price": 11495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S300/assets/CT-S300_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S300/",
+      "description": ""
+    },
+    {
+      "sku": "CT-S100C2",
+      "product_name": "CT-S100",
+      "title": "Casiotone",
+      "price": 8295,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S100/assets/CT-S100_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S100/",
+      "description": ""
+    },
+    {
+      "sku": "LK-S250C2",
+      "product_name": "LK-S250",
+      "title": "Casiotone",
+      "price": 15995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/L/LK/LKS/LK-S250/assets/LK-S250_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.LK-S250/",
+      "description": ""
+    },
+    {
+      "sku": "CT-X700C2",
+      "product_name": "CT-X700",
+      "title": "CT-X",
+      "price": 13995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X700/assets/CT-X700_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X700/",
+      "description": ""
+    },
+    {
+      "sku": "AP-470BKC2",
+      "product_name": "AP-470BK",
+      "title": "CELVIANO",
+      "price": 92495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP4/AP-470BK/assets/AP-470BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-470BK/",
+      "description": ""
+    },
+    {
+      "sku": "AP-270BKC2",
+      "product_name": "AP-270BK",
+      "title": "CELVIANO",
+      "price": 76495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP2/AP-270BK/assets/AP-270BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-270BK/",
+      "description": ""
+    },
+    {
+      "sku": "PX-770BKC2",
+      "product_name": "PX-770BK",
+      "title": "Privia",
+      "price": 69995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX7/PX-770BK/assets/PX-770BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-770BK/",
+      "description": ""
+    },
+    {
+      "sku": "PX-870BKC2",
+      "product_name": "PX-870BK",
+      "title": "Privia",
+      "price": 89995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX8/PX-870BK/assets/PX-870BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-870BK/",
+      "description": ""
+    },
+    {
+      "sku": "LK-S250C2",
+      "product_name": "LK-S250",
+      "title": "Casiotone",
+      "price": 15995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/L/LK/LKS/LK-S250/assets/LK-S250_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.LK-S250/",
+      "description": ""
+    },
+    {
+      "sku": "CT-X700C2",
+      "product_name": "CT-X700",
+      "title": "CT-X",
+      "price": 13995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X700/assets/CT-X700_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X700/",
+      "description": ""
+    },
+    {
+      "sku": "AP-470BKC2",
+      "product_name": "AP-470BK",
+      "title": "CELVIANO",
+      "price": 92495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP4/AP-470BK/assets/AP-470BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-470BK/",
+      "description": ""
+    },
+    {
+      "sku": "AP-270BKC2",
+      "product_name": "AP-270BK",
+      "title": "CELVIANO",
+      "price": 76495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP2/AP-270BK/assets/AP-270BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-270BK/",
+      "description": ""
+    },
+    {
+      "sku": "PX-770BKC2",
+      "product_name": "PX-770BK",
+      "title": "Privia",
+      "price": 69995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX7/PX-770BK/assets/PX-770BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-770BK/",
+      "description": ""
+    },
+    {
+      "sku": "PX-870BKC2",
+      "product_name": "PX-870BK",
+      "title": "Privia",
+      "price": 89995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX8/PX-870BK/assets/PX-870BK_Seq1.jpg.transform/product-panel/image.jpg",
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-870BK/",
+      "description": ""
+    }
+  ],
+  "Calculators":[
+    {
+        "sku": "FX-991ESPLUS-2W1DT",
+        "product_name": "FX-991ESPLUS-2",
+        "product_type": "Normal Product",
+        "main_product_name": "FX-991ESPLUS-2",
+        "tag": "Natural textbook display",
+        "title": "Standard Scientific Calculators",
+        "code": "fx-991ES PLUS-2",
+        "price": 1395,
+        "url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2/",
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991ESPLUS-2/assets/fx-991ES_PLUS-2_F.png.transform/product-panel/image.png"
+    },
+    {
+        "sku": "FX-991CW",
+        "product_name": "FX-991CW",
+        "product_type": "Normal Product",
+        "main_product_name": "FX-991CW",
+        "tag": "ClassWiz",
+        "title": "Standard Scientific Calculators",
+        "code": "fx-991CW",
+        "price": 1595,
+        "url": "https://www.casio.com/in/scientific-calculators/product.FX-991CW/",
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991cw/assets/fx-991CW_F.png.transform/product-panel/image.png"
+    },
+    {
+        "sku": "FC-200V-2",
+        "product_name": "FC-200V-2",
+        "product_type": "Normal Product",
+        "main_product_name": "FC-200V-2",
+        "tag": "Solar & Battery",
+        "title": "Financial Calculators",
+        "code": "FC-200V-2",
+        "price": 2995,
+        "url": "https://www.casio.com/in/scientific-calculators/product.FC-200V-2/",
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FC/FC2/fc-200v-2/assets/FC-200V-2_F.png.transform/product-panel/image.png"
+    },
+    {
+        "sku": "FC-200V",
+        "product_name": "FC-200V",
+        "product_type": "Normal Product",
+        "main_product_name": "FC-200V",
+        "tag": "Solar & Battery",
+        "title": "Financial Calculators",
+        "code": "FC-200V",
+        "price": 2695,
+        "url": "https://www.casio.com/in/scientific-calculators/product.FC-200V/",
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FC/FC2/FC-200V/assets/FC200V_Seq1.jpg.transform/product-panel/image.jpg"
+    },
+    {
+        "sku": "FX-9860GIII-S-DT",
+        "product_name": "FX-9860GIII",
+        "product_type": "Normal Product",
+        "main_product_name": "FX-9860GIII",
+        "tag": "Python",
+        "title": "Graphing Calculators",
+        "code": "fx-9860GIII",
+        "price": 8495,
+        "url": "https://www.casio.com/in/scientific-calculators/product.FX-9860GIII/",
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-9860GIII/assets/fx-9860GIII_Seq1.jpg.transform/product-panel/image.jpg"
+    },
+  {
+    "sku": "FX-CG50-S-DH",
+    "product_name": "FX-CG50",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-CG50",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-CG50/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FXC/fx-CG50/assets/fx-CG50_Seq1.jpg.transform/product-panel/image.jpg",
+    "tag": "3D graph / Color display",
+    "title": "Graphing Calculators",
+    "code": "fx-CG50",
+    "price": 13995
+  },
+  {
+    "sku": "FX-5800P-W-DH",
+    "product_name": "FX-5800P",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-5800P",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-5800P/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX5/fx-5800P/assets/fx-5800P_Seq1.jpg.transform/product-panel/image.jpg",
+    "tag": "Natural textbook display / 4-line display",
+    "title": "Programmable Calculators",
+    "code": "fx-5800P",
+    "price": 5295
+  },
+  {
+    "sku": "FX-100MS-2-W1-DT",
+    "product_name": "FX-100MS-2",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-100MS-2",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-100MS-2/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX1/fx-100MS-2/assets/fx-100MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+    "tag": "2-line display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-100MS-2",
+    "price": 1045
+  },
+  {
+    "sku": "FX-350MS-2-W1-DT",
+    "product_name": "FX-350MS-2",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-350MS-2",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-350MS-2/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX3/fx-350MS-2/assets/fx-350MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+    "tag": "2-line display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-350MS-2",
+    "price": 660
+  },
+  {
+    "sku": "FX-82ESPLUS-2-W1DT",
+    "product_name": "FX-82ESPLUS-2",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-82ESPLUS-2",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82ESPLUS-2/assets/fx-82ES_PLUS-2_F.png.transform/product-panel/image.png",
+    "tag": "Natural textbook display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-82ES PLUS-2",
+    "price": 745
+  },
+  {
+    "sku": "FX-82ESPLUS-2BU",
+    "product_name": "FX-82ESPLUS-2BU",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-82ESPLUS-2BU",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2BU/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82esplus-2bu/assets/fx-82ES_PLUS-2BU_F.png.transform/product-panel/image.png",
+    "tag": "Natural textbook display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-82ES PLUS-2BU",
+    "price": 745
+  },
+  {
+    "sku": "FX-82ESPLUS-2PK",
+    "product_name": "FX-82ESPLUS-2PK",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-82ESPLUS-2PK",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2PK/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82esplus-2pk/assets/fx-82ES_PLUS-2PK_F.png.transform/product-panel/image.png",
+    "tag": "Natural textbook display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-82ES PLUS-2PK",
+    "price": 745
+  },
+  {
+    "sku": "FX-82MS-2-W1-DT",
+    "product_name": "FX-82MS-2",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-82MS-2",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82MS-2/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82MS-2/assets/fx-82MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+    "tag": "2-line display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-82MS-2",
+    "price": 625
+  },
+  {
+    "sku": "FX-991ESPLUS2BU",
+    "product_name": "FX-991ESPLUS-2BU",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-991ESPLUS-2BU",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2BU/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991esplus-2bu/assets/fx-991ES_PLUS-2BU_F.png.transform/product-panel/image.png",
+    "tag": "Natural textbook display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-991ES PLUS-2BU",
+    "price": 1395
+  },
+  {
+    "sku": "FX-991ESPLUS2PK",
+    "product_name": "FX-991ESPLUS-2PK",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-991ESPLUS-2PK",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2PK/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991esplus-2pk/assets/fx-991ES_PLUS-2PK_F.png.transform/product-panel/image.png",
+    "tag": "Natural textbook display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-991ES PLUS-2PK",
+    "price": 1395
+  },
+  {
+    "sku": "FX-991MS-2-W1-DT",
+    "product_name": "FX-991MS-2",
+    "product_type": "Normal Product",
+    "main_product_name": "FX-991MS-2",
+    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991MS-2/",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991MS-2/assets/fx-991MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+    "tag": "2-line display",
+    "title": "Standard Scientific Calculators",
+    "code": "fx-991MS-2",
+    "price": 1245
+  }
 ]
-}    
+}
