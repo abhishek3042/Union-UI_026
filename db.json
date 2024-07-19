@@ -569,7 +569,7 @@
     },
     {
       "sku": "SA-81",
-      "name": "Casiotone Mini Keyboards",
+      "product_name": "Casiotone Mini Keyboards",
       "code": "SA-81",
       "price": 5495,
       "features": "44 keys / 100 Tones / 50 Rhythms",
@@ -578,7 +578,7 @@
     },
     {
       "sku": "PX-S7000HM",
-      "name": "Privia",
+      "product_name": "Privia",
       "code": "PX-S7000HM",
       "price": 219995,
       "features": "",
@@ -587,7 +587,7 @@
     },
     {
       "sku": "PX-S7000BK",
-      "name": "Privia",
+      "product_name": "Privia",
       "code": "PX-S7000BK",
       "price": 199995,
       "features": "",
@@ -596,7 +596,7 @@
     },
     {
       "sku": "PX-S7000WE",
-      "name": "Privia",
+      "product_name": "Privia",
       "code": "PX-S7000WE",
       "price": 199995,
       "features": "",
@@ -605,7 +605,7 @@
     },
     {
       "sku": "PX-S5000BK",
-      "name": "Privia",
+      "product_name": "Privia",
       "code": "PX-S5000BK",
       "price": 99995,
       "features": "",
@@ -614,7 +614,7 @@
     },
     {
       "sku": "SA-50",
-      "name": "Casiotone Mini Keyboards",
+      "product_name": "Casiotone Mini Keyboards",
       "code": "SA-50",
       "price": 4495,
       "features": "32keys / 100 Tones / 50 Rhythms",
@@ -623,7 +623,7 @@
     },
     {
       "sku": "SA-51",
-      "name": "Casiotone Mini Keyboards",
+      "product_name": "Casiotone Mini Keyboards",
       "code": "SA-51",
       "price": 4495,
       "features": "32keys / 100 Tones / 50 Rhythms",
