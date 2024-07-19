@@ -1,4 +1,5 @@
  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
  * {
      margin: 0px;
@@ -12,6 +13,8 @@
 
  }
 
+
+
  .container {
      max-width: 1340px;
      margin: auto;
@@ -21,15 +24,21 @@
      padding: 10px;
      background-color: white;
 
+
      /* -webkit-box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.63);
      -moz-box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.63);
      box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.63); */
  }
 
+ .nav2 {
+     display: flex;
+     margin: auto;
+
+ }
+
  nav {
      width: 100%;
      display: flex;
-
      z-index: 1111111111111111111;
      background-color: white;
      margin: auto;
@@ -43,6 +52,17 @@
      margin-left: 20px;
      font-size: 14px;
      letter-spacing: -1px;
+ }
+
+ .inputDiv {
+     display: flex;
+     gap: 20px;
+     font-size: 14px;
+
+ }
+
+ .inputDiv button {
+     font-size: 14px;
  }
 
  .smallBoxes {
@@ -72,7 +92,7 @@
      height: 60%;
      overflow-y: hidden;
      overflow-x: scroll;
-     padding-bottom: 40px;
+     padding-bottom: 60px;
      scrollbar-color: rgb(0, 0, 0);
 
  }
@@ -82,7 +102,7 @@
 
  }
 
- .newDroperBoxes {
+ .newDroperBoxes1 {
      height: 350px;
      width: 300px;
      background-color: #fff;
@@ -90,11 +110,27 @@
 
  }
 
+ .newDroperBoxes2 {
+     height: 350px;
+     width: 300px;
+     background-color: rgb(249, 248, 248);
+     overflow: hidden;
+
+ }
+
+ .newDroperBoxes2 img {
+     margin: auto;
+     display: block;
+ }
+
  .backgroundImage1 {
-     background-image: url('https://www.casio.com/content/casio/locales/in/en/products/_jcr_content/root/responsivegrid/teaser_1897153092_co.casiocoreimg.png/1684224575371/scientific-calculators-notext-cpd-1920x816.png');
+     background-image: url('https://www.casio.com/content/casio/locales/in/en/products/watches/gshock/_jcr_content/root/responsivegrid/teaser_1970300949.casiocoreimg.jpeg/1697547858943/hero-pc.jpeg');
      height: 500px;
      background-repeat: no-repeat;
      background-size: cover;
+     background-attachment: fixed;
+     filter: blur(5px);
+
 
  }
 
@@ -103,12 +139,25 @@
      height: 400px;
      background-repeat: no-repeat;
      background-size: cover;
+
+ }
+
+ #middleOne {
+     height: 180px;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-attachment: fixed;
+     background-image: url('data:image/jpeg;base64,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');
+
  }
 
  input {
      border: none;
      border-bottom: 1px solid black;
-     padding-left: 35px;
+     padding-left: 14px;
+
  }
 
  .logo {
@@ -121,7 +170,7 @@
      width: 250%;
      position: absolute;
      background-color: #fff;
-     left: -305px;
+     left: -247px;
      top: 40px;
      transition: 0.3s;
      display: flex;
@@ -136,7 +185,7 @@
      width: 250%;
      position: absolute;
      background-color: #fff;
-     left: -305px;
+     left: -247px;
      top: 40px;
      transition: 0.3s;
      z-index: 999999999999999;
@@ -145,7 +194,6 @@
 
  .dropdown {
      display: flex;
-     /* width: 100%; */
 
 
  }
