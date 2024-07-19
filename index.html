@@ -1,11 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chronotech</title>
-</head>
-<body>
-    <h1>sumit</h1>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Document</title>
+
+    <script
+      src="https://kit.fontawesome.com/abc5352ddd.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <section class="box sign_in">
+        <h2>Already have an Account?</h2>
+        <button class="tab" id="sign_in_button">Sign in</button>
+      </section>
+      <section class="box sign_up">
+        <h2>Don’t have an Account?</h2>
+        <button class="tab" id="sign_up_button">Sign up</button>
+      </section>
+      <section class="form_container">
+        <div class="sign_in_box form_box" id="login-form">
+          <form action="#" method="post">
+            <div>Other sign in options</div>
+            <div id="small">
+              <div>
+                <a href="https://www.facebook.com/login/" target="_blank"
+                  ><i
+                    class="fa-brands fa-facebook fa-xl"
+                    style="color: #000000"
+                  ></i
+                ></a>
+              </div>
+              <div>
+                <a
+                  href="https://www.instagram.com/accounts/login/?next=%2Fproud.mp%2Ffeed%2F&source=profile_feed_tab"
+                  target="_blank"
+                  ><i
+                    class="fa-brands fa-instagram fa-xl"
+                    style="color: #000000"
+                  ></i
+                ></a>
+              </div>
+              <div>
+                <a href="https://x.com/i/flow/login" target="_blank"
+                  ><i
+                    class="fa-brands fa-twitter fa-xl"
+                    style="color: #000000"
+                  ></i
+                ></a>
+              </div>
+            </div>
+            <h3>Sign In</h3>
+            <input
+              type="text"
+              id="login-username"
+              placeholder="username"
+              required
+            />
+            <input
+              type="password"
+              id="login-password"
+              placeholder="password"
+              required
+            />
+            <button type="button" class="primary" onclick="login()">
+              Login
+            </button>
+            <a href="#">Forgot Password?</a>
+            <a href="#">Terms &amp; Conditions</a>
+          </form>
+        </div>
+        <div class="sign_up_box form_box" id="signup-form">
+          <form action="#" method="post">
+            <h3>Sign Up</h3>
+            <input
+              type="text"
+              id="signup-username"
+              placeholder="username"
+              required
+            />
+            <input type="text" id="signup-email" placeholder="email" required />
+            <input
+              type="password"
+              id="signup-password"
+              placeholder="password"
+              required
+            />
+            <input
+              type="password"
+              id="confirm_password"
+              placeholder="confirm password"
+              required
+            />
+            <button type="button" class="secondary" onclick="signup()">
+              Register
+            </button>
+            <a href="#">Terms &amp; Conditions</a>
+          </form>
+        </div>
+      </section>
+    </div>
+    <script src="./index.js"></script>
+  </body>
 </html>
