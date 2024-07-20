@@ -42,15 +42,24 @@ const displayProducts = (data) => {
         let product = data[i];
         let card = document.createElement("div");
         card.className = "card";
+        let img_div=document.createElement("div");
+        img_div.className="img_div";
         let img = document.createElement("img");
+        img.className = "product-image";
         img.src = product.image;
-        let h3 = document.createElement("h5");
-        h3.innerText = product.title;
+        img_div.append(img)
+        let title = document.createElement("h5");
+        title.className = "product-title";
+        title.innerText = product.title;
+
         let productName = document.createElement("p");
+        productName.className = "product-name";
         productName.innerText = product.product_name;
+
         let price = document.createElement("p");
+        price.className = "product-price";
         price.innerText = `₹ ${product.price} (incl. of all taxes)`;
-        card.append(img, h3, productName, price);
+        card.append(img_div,title, productName, price);
         productsDisplay.append(card);
     }
 };
@@ -73,6 +82,25 @@ const handleScroll = () => {
 
 window.addEventListener("scroll", handleScroll);
 
+
+const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+    // Show the button when scrolling down 20px from the top
+    window.onscroll = function() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        scrollToTopBtn.style.display = 'block';
+      } else {
+        scrollToTopBtn.style.display = 'none';
+      }
+    };
+
+    // Scroll to the top of the page when the button is clicked
+    scrollToTopBtn.addEventListener('click', function() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
 allProductsBtn.addEventListener("click", () => {
     start = 0;
     currentData = allProductsData;
@@ -154,9 +182,9 @@ const searchProduct = (query) => {
     const filteredProducts = currentData.filter((product) => {
         return product.title && product.title.toLowerCase().includes(query.toLowerCase());
     });
-    currentData=filteredProducts
+    
     start = 0; // Reset start to 0 for new search
-    displayProducts(currentData);
+    displayProducts(filteredProducts);
 };
 
 searchInput.addEventListener('input', debounce(() => {
