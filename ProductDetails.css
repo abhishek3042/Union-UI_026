@@ -1,0 +1,17 @@
+#main{
+    border: 1px solid black;
+}
+
+#productDetails{
+    border: 1px solid black;
+}
+#left_image_section{
+    border: 1px solid black;
+}
+#ain_productImage{
+    border: 1px solid black;
+}
+#features{
+    display: flex;
+    border: 1px solid black;
+}
