@@ -7,8 +7,10 @@
     /* width: 100%; */
     /* height: 40%; */
 /* } */
+
 #products_display{
-    width: 75%;
+    border: 1px solid red;
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
@@ -17,12 +19,15 @@
 }
 #products_section{
     display: flex;
+    width: 100%;
+    border: 2px solid blue;
+    padding:40px;
 }
 #scroll_section{
-    width: 30%;
+    width: 40%;
     /* padding: 50px; */
     border: 2px solid black;
-    height: 500px;
+    height: 700px;
     position: sticky;
     top: 0px;
     left: 0px;
@@ -60,3 +65,7 @@
     margin-top: 50px;
     margin-left: 100px;
   } */
+
+  #filter-by-price-Range {
+
+  }
