@@ -109,7 +109,7 @@
     <div id="Hero_section">
         <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-              <div class="carousel-item active" data-bs-interval="1000">
+              <div class="carousel-item active" data-bs-interval="1500">
                 <img src="https://www.casio.com/content/casio/locales/in/en/products/watches/_jcr_content/root/responsivegrid/carousel_583184570/item_1716869114423.casiocoreimg.jpeg/1716869245591/main-banner.jpeg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
@@ -144,14 +144,14 @@
                           <label for="huey">Newest</label>
                         </div>
                       
-                        <div>
-                          <input type="radio" id="Hightolow" name="sort" value="Hightolow" />
-                          <label for="dewey">Price:High-Low</label>
-                        </div>
-                      
+                        
                         <div>
                           <input type="radio" id="Lowtohigh" name="sort" value="Lowtohigh" />
                           <label for="louie">Price: Low-High</label>
+                        </div>
+                        <div>
+                          <input type="radio" id="Hightolow" name="sort" value="Hightolow" />
+                          <label for="dewey">Price:High-Low</label>
                         </div>
 
                         <div>
@@ -238,17 +238,19 @@
             </div>
         </div>
         <div id="display-section">
-            <div id="Search-nav">
-                <button id="displayallProducts">All Products</button>
-                <button id="displayWatches">Watches</button>
-                <button id="displayMusicalInstruments">Musical Instruments</button>
-                <button id="displayCalculators">Calculators</button>
-                <form id="searchForm">
-                  <input type="text" id="searchInput" placeholder="search for products">
-                  <input type="submit" name="Search">
-                </form>
-            </div>
-            <div><h1 id="totalProducts"></h1></div>
+          <div id="Search-nav">
+            <button id="displayallProducts" class="nav-button">All Products</button>
+            <button id="displayWatches" class="nav-button">Watches</button>
+            <button id="displayMusicalInstruments" class="nav-button">Musical Instruments</button>
+            <button id="displayCalculators" class="nav-button">Calculators</button>
+            <form id="searchForm" class="search-form">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search for products">
+                <input type="submit" class="search-button" value="Search">
+            </form>
+        </div>
+        <div id="totalProducts-container">
+            <span>Total Products: <h1 id="totalProducts" class="total-products"></h1></span>
+        </div>
             <div id="products_display"></div>
         </div>
     </div>
