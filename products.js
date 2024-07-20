@@ -36,6 +36,10 @@ for(let i=start;i<start+limit;i++){
     // p.innerText=product.description;
     let price=document.createElement("p");
     price.innerText=`₹ ${product.price} (incl. of all taxes)`;
+    card.addEventListener("click", () => {
+      localStorage.setItem("current_productdetails", JSON.stringify(product));
+      window.location.href = "productDetails.html";
+  });
     card.append(img,h3,productName,price);
     productsDisplay.append(card);
     // scrollsection.append(card);
