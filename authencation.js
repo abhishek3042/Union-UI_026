@@ -1,9 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Function to switch to the sign-up form
-    const home=document.querySelector("#logo");
-    home.addEventListener("click", function () {
-        window.location.href="index.html"
-    })
     function redirectToSignup() {
         document.querySelector('.sign_in_box').classList.add('form_none');
         document.querySelector('.sign_up_box').classList.remove('form_none');
@@ -32,7 +28,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     if (user.password === password) {
                         alert('Logged in successfully!');
                         localStorage.setItem('current_user', JSON.stringify(user));
-                        displayUsername(user.username); // Display username
+                        displayUsername(user.username); // Display username in the header
+                        redirectToLogin(); // Hide the login form
                     } else {
                         alert('Incorrect password.');
                     }
@@ -50,6 +47,11 @@ document.addEventListener("DOMContentLoaded", function () {
         const confirmPassword = document.getElementById('confirm_password').value;
         const email = document.getElementById('signup-email').value;
 
+        if(username.length < 5) {
+            alert('Enter valid username.');
+            return;
+        }
+        
         if (!validateEmail(email)) {
             alert('Invalid email format.');
             return;
@@ -90,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     .then(response => response.json())
                     .then(() => {
                         alert('Signed up successfully!');
-                        redirectToLogin(); // Transition back to login after signup
+                        redirectToLogin(); 
                     })
                     .catch(error => console.error('Error:', error));
             });
@@ -102,17 +104,25 @@ document.addEventListener("DOMContentLoaded", function () {
         return emailPattern.test(email);
     }
 
-    // Function to display username after login
+    // Function to display username in the header
     function displayUsername(username) {
+        const usernameDisplayContainer = document.getElementById('username-display-container');
         const usernameDisplay = document.getElementById('username-display');
-        if (usernameDisplay) {
-            usernameDisplay.textContent = `Hello, ${username}!`;
-        } else {
-            const newUsernameDisplay = document.createElement('div');
-            newUsernameDisplay.id = 'username-display';
-            newUsernameDisplay.textContent = `Hello, ${username}!`;
-            document.body.appendChild(newUsernameDisplay);
-        }
+
+        usernameDisplay.textContent = `${username}`;
+        usernameDisplayContainer.style.display = 'block'; 
+
+        // Hide the forms
+        document.querySelector('.sign_in_box').classList.add('form_none');
+        document.querySelector('.sign_up_box').classList.add('form_none');
+    }
+
+    // Function to handle logout
+    function logout() {
+        const usernameDisplayContainer = document.getElementById('username-display-container');
+        usernameDisplayContainer.style.display = 'none'; 
+        localStorage.setItem('current_user', JSON.stringify(null));
+        redirectToLogin(); 
     }
 
     // Event listeners for form switching
@@ -122,4 +132,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Event listeners for form submission
     document.querySelector("#login-form .primary").addEventListener('click', login);
     document.querySelector("#signup-form .secondary").addEventListener('click', signup);
+
+    // Event listener for logout
+    document.getElementById('logoutButton').addEventListener('click', logout);
 });
