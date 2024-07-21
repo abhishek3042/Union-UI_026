@@ -54,6 +54,10 @@
      letter-spacing: -1px;
  }
 
+ #lens {
+     display: none;
+ }
+
  .inputDiv {
      display: flex;
      gap: 20px;
@@ -121,15 +125,28 @@
  .newDroperBoxes2 img {
      margin: auto;
      display: block;
+
  }
 
  .backgroundImage1 {
      background-image: url('https://www.casio.com/content/casio/locales/in/en/products/watches/gshock/_jcr_content/root/responsivegrid/teaser_1970300949.casiocoreimg.jpeg/1697547858943/hero-pc.jpeg');
      height: 500px;
+
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
      filter: blur(5px);
+
+
+ }
+
+ .innerHiddenSection {
+     display: none;
+     height: 300px;
+     width: 300px;
+     position: relative;
+     border: 2px solid;
+     left: -80px;
 
 
  }
@@ -139,6 +156,8 @@
      height: 400px;
      background-repeat: no-repeat;
      background-size: cover;
+
+
 
  }
 
@@ -153,10 +172,19 @@
 
  }
 
- input {
+ .inputDivCanvas input {
      border: none;
      border-bottom: 1px solid black;
      padding-left: 14px;
+     width: 90%;
+
+ }
+
+ .inputDiv input {
+     border: none;
+     border-bottom: 1px solid black;
+     padding-left: 14px;
+     width: 100%;
 
  }
 
@@ -211,6 +239,11 @@
      height: 400px;
  }
 
+ .d1:hover .innerHiddenSection {
+     display: block;
+
+ }
+
  a:hover {
      text-decoration: underline;
  }
@@ -257,8 +290,26 @@
      outline: none;
  }
 
+ .hamburger {
+     display: none;
+ }
+
  @media (max-width: 996px) {
      .dropdown {
          display: none;
      }
+
+     .inputDiv {
+         display: none;
+     }
+
+     .hamburger {
+         display: block;
+     }
+
+     #lens {
+         display: block;
+         margin-top: 4px;
+     }
+
  }
