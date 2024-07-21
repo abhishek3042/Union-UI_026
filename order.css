@@ -21,6 +21,7 @@ body {
 /* Styling for the cart items container */
 #orderContainer {
     width: 90%;
+    min-height: 300px;
     margin-right: 20px;
 }
 
@@ -34,7 +35,7 @@ body {
 }
 
 .cartItem img {
-    width: 120px;
+    width: 150px;
     height: auto;
     margin-right: 15px;
 }
@@ -54,15 +55,18 @@ body {
 
 button {
     cursor: pointer;
-    padding: 5px 10px;
-    font-size: 0.9em;
+    padding: 5px 5px;
+    font-size: 20px;
     margin: 2px;
+    border: none;
+    background-color: #c9eded;
 }
 
 /* Styling for the summary section */
 #orderSummary {
     padding: 50px;
     width: 50%;
+    height: 300px;
 }
 
 #walletBalance, #totalValue, #addMoneySection {
@@ -75,7 +79,7 @@ button {
 }
 
 #addMoneySection button {
-    background-color: #007bff;
+    background-color: #c3daf2;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -105,15 +109,20 @@ button {
 }
 /* Additional styles for wishlist container */
 #wishlistContainer {
-    width: 70%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    width: 100%;
     margin-right: 20px;
 }
 
 #wishlistContainer h1 {
+    
     margin-bottom: 20px;
 }
 
 .wishlistItem {
+    width: 400px;
     border-bottom: 1px solid #ddd;
     padding: 15px;
     display: flex;
@@ -123,7 +132,7 @@ button {
 }
 
 .wishlistItem img {
-    width: 120px;
+    width: 140px;
     height: auto;
     margin-right: 15px;
 }
@@ -146,12 +155,13 @@ button {
     padding: 5px 10px;
     font-size: 0.9em;
     margin-right: 5px;
-    background-color: #007bff;
+    margin-bottom: 10px;
+    background-color: #3994f5;
     color: #fff;
     border: none;
     border-radius: 5px;
 }
 
 .wishlistItem button:hover {
-    background-color: #0056b3;
+    background-color: #0b75e7;
 }
