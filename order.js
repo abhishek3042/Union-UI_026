@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function fetchUserDetails(userId) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 displayWalletBalance(user.wallet);
@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function updateQuantity(userId, productId, change) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const cart = user.cart || [];
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         cart.splice(productIndex, 1);
                     }
 
-                    fetch(`http://localhost:3000/users/${userId}`, {
+                    fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
@@ -197,7 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function removeProduct(userId, productId) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const cart = user.cart || [];
@@ -206,7 +206,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (productIndex > -1) {
                     cart.splice(productIndex, 1);
 
-                    fetch(`http://localhost:3000/users/${userId}`, {
+                    fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
@@ -229,7 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function moveToWishlist(userId, productId) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const cart = user.cart || [];
@@ -240,7 +240,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const [product] = cart.splice(productIndex, 1);
                     wishlist.push(product);
 
-                    fetch(`http://localhost:3000/users/${userId}`, {
+                    fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
@@ -264,7 +264,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function moveToCart(userId, productId) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const cart = user.cart || [];
@@ -282,7 +282,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         cart.push(product);
                     }
 
-                    fetch(`http://localhost:3000/users/${userId}`, {
+                    fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
@@ -306,7 +306,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function checkout(userId, totalValue) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 if (user.wallet < totalValue) {
@@ -321,7 +321,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 updatedOrders.push(...updatedCart);
                 user.cart = [];
 
-                fetch(`http://localhost:3000/users/${userId}`, {
+                fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                     method: 'PATCH',
                     headers: {
                         'Content-Type': 'application/json'
@@ -343,12 +343,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function addMoney(userId, amount) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const updatedWallet = user.wallet + amount;
 
-                fetch(`http://localhost:3000/users/${userId}`, {
+                fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                     method: 'PATCH',
                     headers: {
                         'Content-Type': 'application/json'
@@ -370,7 +370,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function removeFromWishlist(userId, productId) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const wishlist = user.wishlist || [];
@@ -379,7 +379,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (productIndex > -1) {
                     wishlist.splice(productIndex, 1);
 
-                    fetch(`http://localhost:3000/users/${userId}`, {
+                    fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
