@@ -68,14 +68,20 @@ npm start
 
 ```
 
-## Usage
-Provide instructions and examples on how to use your project.
+### Home Page
+<img src=".\images\screencapture-127-0-0-1-5500-index-html-2024-07-21-19_59_12.png">
 
-```bash
-# Example
-```
+### Login and Signup
+<img src="images\screencapture-127-0-0-1-5500-authencation-html-2024-07-21-20_10_12.png">
 
-Include screenshots as necessary.
+### Products Page
+<img src="images\screencapture-127-0-0-1-5500-products-html-2024-07-21-20_01_09.png">
+
+### Product Details
+<img src="images\screencapture-127-0-0-1-5500-ProductDetails-html-2024-07-21-20_02_17.png">
+
+### Cart, Whishlist wallet and Order
+<img src="images\screencapture-127-0-0-1-5500-order-html-2024-07-21-20_03_42.png">
 
 ## Credentials
 Username: abskmsra <br>
@@ -86,11 +92,11 @@ Password: 123456
 [API link](https://chronotech-api-1.onrender.com)
 
 ## API Endpoints
-GET    /Watches
-POST   /users
-PUT    /users/:id
-PATCH  /users/:id
-DELETE /users/:id
+- GET    /Watches
+- POST   /users
+- PUT    /users/:id
+- PATCH  /users/:id
+- DELETE /users/:id
 
 Resources:<br>
 https://chronotech-api-1.onrender.com/Watches 40x<br>
