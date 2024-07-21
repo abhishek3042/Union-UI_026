@@ -9,7 +9,8 @@
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-61ss-2/assets/PRW-61SS-2.png.transform/product-panel/image.png",
       "title": "PRO TREK",
       "code": "PRW-61SS-2",
-      "price": 29995
+      "price": 29995,
+      "id": "6162"
     },
     {
       "sku": "GMW-B5000SS-2DR",
@@ -20,7 +21,8 @@
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMW/gmw-b5000ss-2/assets/GMW-B5000SS-2.png.transform/product-panel/image.png",
       "title": "G-SHOCK",
       "code": "GMW-B5000SS-2",
-      "price": 49995
+      "price": 49995,
+      "id": "349e"
     },
     {
       "sku": "GA-2100MNG-2ADR",
@@ -31,7 +33,8 @@
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-2a/assets/GA-2100MNG-2A.png.transform/product-panel/image.png",
       "title": "G-SHOCK",
       "code": "GA-2100MNG-2A",
-      "price": 11495
+      "price": 11495,
+      "id": "e2b3"
     },
     {
       "sku": "GA-2100MNG-7ADR",
@@ -42,7 +45,8 @@
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-7a/assets/GA-2100MNG-7A.png.transform/product-panel/image.png",
       "title": "G-SHOCK",
       "code": "GA-2100MNG-7A",
-      "price": 11495
+      "price": 11495,
+      "id": "5185"
     },
     {
       "sku": "G-5600SRF-1DR",
@@ -53,7 +57,8 @@
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/G5/G56/g-5600srf-1/assets/G-5600SRF-1.png.transform/product-panel/image.png",
       "title": "G-SHOCK",
       "code": "G-5600SRF-1",
-      "price": 9995
+      "price": 9995,
+      "id": "c905"
     },
     {
       "sku": "GMD-S5600EP-9DR",
@@ -64,7 +69,8 @@
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMD/gmd-s5600ep-9/assets/GMD-S5600EP-9.png.transform/product-panel/image.png",
       "title": "G-SHOCK",
       "code": "GMD-S5600EP-9",
-      "price": 7995
+      "price": 7995,
+      "id": "0e20"
     },
     {
       "sku": "ECB-2000SS-2ADR",
@@ -73,7 +79,8 @@
       "main_product_name": "ECB-2000SS-2A",
       "title": "CASIO",
       "price": 27495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2000ss-2a/assets/ECB-2000SS-2A.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2000ss-2a/assets/ECB-2000SS-2A.png.transform/product-panel/image.png",
+      "id": "4869"
     },
     {
       "sku": "TRN-50SS-2ADR",
@@ -82,7 +89,8 @@
       "main_product_name": "TRN-50SS-2A",
       "title": "CASIO",
       "price": 42495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png",
+      "id": "fa4e"
     },
     {
       "sku": "MTP-E340D-1AVDF",
@@ -91,7 +99,8 @@
       "main_product_name": "MTP-E340D-1AV",
       "title": "CASIO",
       "price": 6495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-1av/assets/MTP-E340D-1AV.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-1av/assets/MTP-E340D-1AV.png.transform/product-panel/image.png",
+      "id": "3b53"
     },
     {
       "sku": "MTP-E340D-2AVDF",
@@ -100,7 +109,8 @@
       "main_product_name": "MTP-E340D-2AV",
       "title": "CASIO",
       "price": 6495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-2av/assets/MTP-E340D-2AV.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-2av/assets/MTP-E340D-2AV.png.transform/product-panel/image.png",
+      "id": "5a80"
     },
     {
       "sku": "MTP-E340D-3AVDF",
@@ -109,7 +119,8 @@
       "main_product_name": "MTP-E340D-3AV",
       "title": "CASIO",
       "price": 6495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-3av/assets/MTP-E340D-3AV.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-3av/assets/MTP-E340D-3AV.png.transform/product-panel/image.png",
+      "id": "61a6"
     },
     {
       "sku": "MTP-E340D-7AVDF",
@@ -118,7 +129,8 @@
       "main_product_name": "MTP-E340D-7AV",
       "title": "CASIO",
       "price": 6495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-7av/assets/MTP-E340D-7AV.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-7av/assets/MTP-E340D-7AV.png.transform/product-panel/image.png",
+      "id": "0d5f"
     },
     {
       "sku": "MTP-VD01D-3BVUDF",
@@ -127,7 +139,8 @@
       "main_product_name": "MTP-VD01D-3BV",
       "title": "CASIO",
       "price": 3395,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3bv/assets/MTP-VD01D-3BVU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3bv/assets/MTP-VD01D-3BVU.png.transform/product-panel/image.png",
+      "id": "c8e7"
     },
     {
       "sku": "MTP-VD01D-3E1VUDF",
@@ -136,7 +149,8 @@
       "main_product_name": "MTP-VD01D-3E1V",
       "title": "CASIO",
       "price": 3395,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e1v/assets/MTP-VD01D-3E1VU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e1v/assets/MTP-VD01D-3E1VU.png.transform/product-panel/image.png",
+      "id": "a15e"
     },
     {
       "sku": "MTP-VD01D-3E2VUDF",
@@ -145,7 +159,8 @@
       "main_product_name": "MTP-VD01D-3E2V",
       "title": "CASIO",
       "price": 3395,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e2v/assets/MTP-VD01D-3E2VU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-3e2v/assets/MTP-VD01D-3E2VU.png.transform/product-panel/image.png",
+      "id": "705b"
     },
     {
       "sku": "MTP-VD01D-4BVUDF",
@@ -154,7 +169,8 @@
       "main_product_name": "MTP-VD01D-4BV",
       "title": "CASIO",
       "price": 3395,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-4bv/assets/MTP-VD01D-4BVU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-4bv/assets/MTP-VD01D-4BVU.png.transform/product-panel/image.png",
+      "id": "a268"
     },
     {
       "sku": "MTP-VD01D-6BVUDF",
@@ -163,7 +179,8 @@
       "main_product_name": "MTP-VD01D-6BV",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-6bv/assets/MTP-VD01D-6BVU.png.transform/product-panel/image.png",
-      "price": 3395
+      "price": 3395,
+      "id": "999b"
     },
     {
       "sku": "MTP-VD01D-9EVUDF",
@@ -172,7 +189,8 @@
       "main_product_name": "MTP-VD01D-9EV",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd01d-9ev/assets/MTP-VD01D-9EVU.png.transform/product-panel/image.png",
-      "price": 3395
+      "price": 3395,
+      "id": "fb2b"
     },
     {
       "sku": "WS-B1000-1AVDF",
@@ -181,7 +199,8 @@
       "main_product_name": "WS-B1000-1AV",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-b1000-1av/assets/WS-B1000-1AV.png.transform/product-panel/image.png",
-      "price": 4495
+      "price": 4495,
+      "id": "326f"
     },
     {
       "sku": "WS-B1000-2AVDF",
@@ -190,7 +209,8 @@
       "main_product_name": "WS-B1000-2AV",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/W/WS/wsb/ws-b1000-2av/assets/WS-B1000-2AV.png.transform/product-panel/image.png",
-      "price": 4995
+      "price": 4995,
+      "id": "5668"
     },
     {
       "sku": "A168WEUC-1ADR",
@@ -199,7 +219,8 @@
       "main_product_name": "A168WEUC-1A",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/A1/A16/a168weuc-1a/assets/A168WEUC-1A.png.transform/product-panel/image.png",
-      "price": 7995
+      "price": 7995,
+      "id": "1d5d"
     },
     {
       "sku": "AQ-800E-3ADF",
@@ -208,7 +229,8 @@
       "main_product_name": "AQ-800E-3A",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/AQ/aq8/aq-800e-3a/assets/AQ-800E-3A.png.transform/product-panel/image.png",
-      "price": 4795
+      "price": 4795,
+      "id": "82cd"
     },
     {
       "sku": "AQ-800E-7A2DF",
@@ -217,7 +239,8 @@
       "main_product_name": "AQ-800E-7A2",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/A/AQ/aq8/aq-800e-7a2/assets/AQ-800E-7A2.png.transform/product-panel/image.png",
-      "price": 4795
+      "price": 4795,
+      "id": "51aa"
     },
     {
       "sku": "PRW-35-7DR",
@@ -226,7 +249,8 @@
       "main_product_name": "PRW-35-7",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-35-7/assets/PRW-35-7.png.transform/product-panel/image.png",
-      "price": 15995
+      "price": 15995,
+      "id": "ddc4"
     },
     {
       "sku": "PRW-35Y-2DR",
@@ -235,7 +259,8 @@
       "main_product_name": "PRW-35Y-2",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/P/PR/PRW/prw-35y-2/assets/PRW-35Y-2.png.transform/product-panel/image.png",
-      "price": 16495
+      "price": 16495,
+      "id": "9185"
     },
     {
       "sku": "GM-S2100CB-5ADR",
@@ -244,7 +269,8 @@
       "main_product_name": "GM-S2100CB-5A",
       "title": "CASIO",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cb-5a/assets/GM-S2100CB-5A.png.transform/product-panel/image.png",
-      "price": 17495
+      "price": 17495,
+      "id": "1474"
     },
     {
       "sku": "GM-S2100CW-7ADR",
@@ -253,7 +279,8 @@
       "main_product_name": "GM-S2100CW-7A",
       "title": "CASIO",
       "price": 16495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cw-7a/assets/GM-S2100CW-7A.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gm-s2100cw-7a/assets/GM-S2100CW-7A.png.transform/product-panel/image.png",
+      "id": "aebd"
     },
     {
       "sku": "GMS-S5600RT-4DR",
@@ -262,7 +289,8 @@
       "main_product_name": "GMS-S5600RT-4",
       "title": "CASIO",
       "price": 8995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-4/assets/GMS-S5600RT-4.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-4/assets/GMS-S5600RT-4.png.transform/product-panel/image.png",
+      "id": "dbff"
     },
     {
       "sku": "GMS-S5600RT-7DR",
@@ -271,7 +299,8 @@
       "main_product_name": "GMS-S5600RT-7",
       "title": "CASIO",
       "price": 8995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-7/assets/GMS-S5600RT-7.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/GMS/gms-s5600rt-7/assets/GMS-S5600RT-7.png.transform/product-panel/image.png",
+      "id": "72bf"
     },
     {
       "sku": "GLX-S5600-2DR",
@@ -280,7 +309,8 @@
       "main_product_name": "GLX-S5600-2",
       "title": "CASIO",
       "price": 5295,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-2/assets/GLX-S5600-2.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-2/assets/GLX-S5600-2.png.transform/product-panel/image.png",
+      "id": "e401"
     },
     {
       "sku": "GLX-S5600-7BDR",
@@ -289,7 +319,8 @@
       "main_product_name": "GLX-S5600-7B",
       "title": "CASIO",
       "price": 5295,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-7b/assets/GLX-S5600-7B.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GL/GLX/glx-s5600-7b/assets/GLX-S5600-7B.png.transform/product-panel/image.png",
+      "id": "7f3d"
     },
     {
       "sku": "GBX-100-2ADR",
@@ -298,7 +329,8 @@
       "main_product_name": "GBX-100-2A",
       "title": "CASIO",
       "price": 14995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-2a/assets/GBX-100-2A.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-2a/assets/GBX-100-2A.png.transform/product-panel/image.png",
+      "id": "d5b4"
     },
     {
       "sku": "GBX-100-8DR",
@@ -307,7 +339,8 @@
       "main_product_name": "GBX-100-8",
       "title": "CASIO",
       "price": 14995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-8/assets/GBX-100-8.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GB/GBX/gbx-100-8/assets/GBX-100-8.png.transform/product-panel/image.png",
+      "id": "74ce"
     },
     {
       "sku": "GR-B300-1ADR",
@@ -316,7 +349,8 @@
       "main_product_name": "GR-B300-1A",
       "title": "CASIO",
       "price": 22995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a/assets/GR-B300-1A.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a/assets/GR-B300-1A.png.transform/product-panel/image.png",
+      "id": "280e"
     },
     {
       "sku": "GR-B300-1A4DR",
@@ -325,7 +359,8 @@
       "main_product_name": "GR-B300-1A4",
       "price": 22995,
       "title": "CASIO",
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a4/assets/GR-B300-1A4.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-1a4/assets/GR-B300-1A4.png.transform/product-panel/image.png",
+      "id": "c97b"
     },
     {
       "sku": "GR-B300-8A2DR",
@@ -334,7 +369,8 @@
       "main_product_name": "GR-B300-8A2",
       "price": 22995,
       "title": "CASIO",
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-8a2/assets/GR-B300-8A2.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GR/GRB/gr-b300-8a2/assets/GR-B300-8A2.png.transform/product-panel/image.png",
+      "id": "012b"
     },
     {
       "sku": "MTG-B3000DN-1ADR",
@@ -344,7 +380,8 @@
       "title": "G-SHOCK",
       "code": "MTG-B3000DN-1A",
       "price": 89995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTG/mtg-b3000dn-1a/assets/MTG-B3000DN-1A.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTG/mtg-b3000dn-1a/assets/MTG-B3000DN-1A.png.transform/product-panel/image.png",
+      "id": "a1af"
     },
     {
       "sku": "EQS-960D-1AVUDF",
@@ -354,7 +391,8 @@
       "title": "EDIFICE",
       "code": "EQS-960D-1AV",
       "price": 13995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960d-1av/assets/EQS-960D-1AVU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960d-1av/assets/EQS-960D-1AVU.png.transform/product-panel/image.png",
+      "id": "953c"
     },
     {
       "sku": "EQS-960DC-1AVUDF",
@@ -364,7 +402,8 @@
       "title": "EDIFICE",
       "code": "EQS-960DC-1AV",
       "price": 16995,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960dc-1av/assets/EQS-960DC-1AVU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960dc-1av/assets/EQS-960DC-1AVU.png.transform/product-panel/image.png",
+      "id": "8626"
     },
     {
       "sku": "EQS-960PB-1AVUDF",
@@ -374,7 +413,8 @@
       "title": "EDIFICE",
       "code": "EQS-960PB-1AV",
       "price": 15495,
-      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960pb-1av/assets/EQS-960PB-1AVU.png.transform/product-panel/image.png"
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-960pb-1av/assets/EQS-960PB-1AVU.png.transform/product-panel/image.png",
+      "id": "f047"
     }
   ],
   "Musical_Instruments": [
@@ -385,16 +425,18 @@
       "price": 21995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X8000IN/assets/CT-X8000IN_F.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X8000IN/",
-      "description": "61 keys / Arranger Indian Keyboard"
+      "description": "61 keys / Arranger Indian Keyboard",
+      "id": "42c7"
     },
     {
-      "sku": "CT-X870INC2", 
+      "sku": "CT-X870INC2",
       "product_name": "CT-X870IN",
       "title": "Localized Keyboards",
       "price": 15495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X870IN/assets/CT-X870IN_F.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X870IN/",
-      "description": "61 keys / Arranger Indian Keyboard"
+      "description": "61 keys / Arranger Indian Keyboard",
+      "id": "bfff"
     },
     {
       "sku": "CT-X9000INC2",
@@ -403,7 +445,8 @@
       "price": 26995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X9000IN/assets/CT-X9000IN_F.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X9000IN/",
-      "description": "61 keys / Arranger Indian Keyboard"
+      "description": "61 keys / Arranger Indian Keyboard",
+      "id": "99d8"
     },
     {
       "sku": "CT-S195C2",
@@ -412,7 +455,8 @@
       "price": 7995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S195/assets/cts195_mainimage.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S195/",
-      "description": "61 keys / CASIO MUSIC SPACE APP"
+      "description": "61 keys / CASIO MUSIC SPACE APP",
+      "id": "1636"
     },
     {
       "sku": "SA-46AH2-IN",
@@ -421,7 +465,8 @@
       "price": 3295,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-46/assets/SA-46_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-46/",
-      "description": ""
+      "description": "",
+      "id": "bc0b"
     },
     {
       "sku": "SA-76AH2-IN",
@@ -430,7 +475,8 @@
       "price": 4495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-76/assets/SA-76_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-76/",
-      "description": ""
+      "description": "",
+      "id": "3e81"
     },
     {
       "sku": "SA-47AH2-IN",
@@ -439,7 +485,8 @@
       "price": 3295,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-47/assets/SA-47_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-47/",
-      "description": ""
+      "description": "",
+      "id": "59c6"
     },
     {
       "sku": "SA-77AH2-IN",
@@ -448,7 +495,8 @@
       "price": 4495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-77/assets/SA-77_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-77/",
-      "description": ""
+      "description": "",
+      "id": "2237"
     },
     {
       "sku": "WK-7600K2",
@@ -457,7 +505,8 @@
       "price": 34995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/W/WK/WK7/WK-7600/assets/WK-7600_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.WK-7600/",
-      "description": ""
+      "description": "",
+      "id": "3cc8"
     },
     {
       "sku": "CTK-2550K2",
@@ -466,7 +515,8 @@
       "price": 10495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-2550/assets/CTK-2550_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-2550/",
-      "description": ""
+      "description": "",
+      "id": "d003"
     },
     {
       "sku": "CTK-3500K2",
@@ -475,7 +525,8 @@
       "price": 11995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-3500/assets/CTK-3500_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-3500/",
-      "description": ""
+      "description": "",
+      "id": "05f4"
     },
     {
       "sku": "WK-6600K2",
@@ -484,7 +535,8 @@
       "price": 24995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/W/WK/WK6/WK-6600/assets/WK-6600_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.WK-6600/",
-      "description": ""
+      "description": "",
+      "id": "0537"
     },
     {
       "sku": "SA-78AH2-IN",
@@ -493,7 +545,8 @@
       "price": 4495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA7/SA-78/assets/SA-78_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-78/",
-      "description": ""
+      "description": "",
+      "id": "5fae"
     },
     {
       "sku": "CTK-240H2",
@@ -502,7 +555,8 @@
       "price": 7195,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTK/CTK-240/assets/CTK-240_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CTK-240/",
-      "description": ""
+      "description": "",
+      "id": "9dd8"
     },
     {
       "sku": "SA-46AH2-IN",
@@ -511,7 +565,8 @@
       "price": 3295,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/SA4/SA-46/assets/SA-46_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-46/",
-      "description": ""
+      "description": "",
+      "id": "927b"
     },
     {
       "sku": "CT-S1BKC2",
@@ -520,7 +575,8 @@
       "price": 16995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1BK/assets/CT-S1BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1BK/",
-      "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP"
+      "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP",
+      "id": "cccc"
     },
     {
       "sku": "CT-S200BKC2",
@@ -529,7 +585,8 @@
       "price": 9495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200BK/assets/CT-S200BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200BK/",
-      "description": "61 keys / Slim & Stylish Portable Design"
+      "description": "61 keys / Slim & Stylish Portable Design",
+      "id": "931e"
     },
     {
       "sku": "CT-S200RDC2",
@@ -538,7 +595,8 @@
       "price": 9495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200RD/assets/CT-S200RD_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200RD/",
-      "description": "61 keys / Slim & Stylish Portable Design"
+      "description": "61 keys / Slim & Stylish Portable Design",
+      "id": "4af5"
     },
     {
       "sku": "CT-S200WEC2",
@@ -547,7 +605,8 @@
       "price": 9495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S200WE/assets/CT-S200WE_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S200WE/",
-      "description": "61 keys / Slim & Stylish Portable Design"
+      "description": "61 keys / Slim & Stylish Portable Design",
+      "id": "80e2"
     },
     {
       "sku": "CT-S400C2",
@@ -556,7 +615,8 @@
       "price": 17495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S400/assets/CT-S400_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S400/",
-      "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP"
+      "description": "61 keys / Advanced Keyboard with CASIO MUSIC SPACE APP",
+      "id": "b310"
     },
     {
       "sku": "SA-80",
@@ -565,7 +625,8 @@
       "price": 5495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa-8/sa-80/assets/sa-80-img01.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-80/",
-      "description": "44 keys / 100 Tones / 50 Rhythms"
+      "description": "44 keys / 100 Tones / 50 Rhythms",
+      "id": "da12"
     },
     {
       "sku": "SA-81",
@@ -574,7 +635,8 @@
       "price": 5495,
       "features": "44 keys / 100 Tones / 50 Rhythms",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa-8/sa-81/assets/sa-81-img01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-81/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-81/",
+      "id": "c678"
     },
     {
       "sku": "PX-S7000HM",
@@ -583,7 +645,8 @@
       "price": 219995,
       "features": "",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000hm/assets/px-s7000hm-main01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000HM/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000HM/",
+      "id": "e1d1"
     },
     {
       "sku": "PX-S7000BK",
@@ -592,7 +655,8 @@
       "price": 199995,
       "features": "",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000bk/assets/px-s7000bk-main01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000BK/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000BK/",
+      "id": "8365"
     },
     {
       "sku": "PX-S7000WE",
@@ -601,7 +665,8 @@
       "price": 199995,
       "features": "",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s7000we/assets/px-s7000we-main01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000WE/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S7000WE/",
+      "id": "d554"
     },
     {
       "sku": "PX-S5000BK",
@@ -610,7 +675,8 @@
       "price": 99995,
       "features": "",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s5000bk/assets/px-s5000-main01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S5000BK/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S5000BK/",
+      "id": "5af8"
     },
     {
       "sku": "SA-50",
@@ -619,7 +685,8 @@
       "price": 4495,
       "features": "32keys / 100 Tones / 50 Rhythms",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa5/sa-50/assets/SA-50-img01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-50/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-50/",
+      "id": "57cd"
     },
     {
       "sku": "SA-51",
@@ -628,7 +695,8 @@
       "price": 4495,
       "features": "32keys / 100 Tones / 50 Rhythms",
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/S/SA/sa5/sa-51/assets/SA-51-img01.png.transform/product-panel/image.png",
-      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-51/"
+      "url": "https://www.casio.com/in/electronic-musical-instruments/product.SA-51/",
+      "id": "0fa1"
     },
     {
       "sku": "CT-S1000V",
@@ -637,7 +705,8 @@
       "price": 29995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/ct-s1000v/assets/ct-s1000v-main01.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1000V/",
-      "description": ""
+      "description": "",
+      "id": "4474"
     },
     {
       "sku": "CDP-S360BKC2",
@@ -646,7 +715,8 @@
       "price": 54995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s360bk/assets/CDP-S360-main01.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S360BK/",
-      "description": "88 keys / Slim Body Design"
+      "description": "88 keys / Slim Body Design",
+      "id": "dadb"
     },
     {
       "sku": "CDP-S160BKC2",
@@ -655,7 +725,8 @@
       "price": 44995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s160bk/assets/CDP-S160BK_main04.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S160BK/",
-      "description": "88 keys / Slim Body Design"
+      "description": "88 keys / Slim Body Design",
+      "id": "c59f"
     },
     {
       "sku": "CDP-S160RDC2",
@@ -664,7 +735,8 @@
       "price": 44995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s160rd/assets/CDP-S160RD.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S160RD/",
-      "description": ""
+      "description": "",
+      "id": "7943"
     },
     {
       "sku": "CDP-S110BKC2",
@@ -673,7 +745,8 @@
       "price": 39995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CD/CDP/cdp-s110bk/assets/CDP-S110BK_main04.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CDP-S110BK/",
-      "description": "88 keys / Slim Body Design"
+      "description": "88 keys / Slim Body Design",
+      "id": "b5bc"
     },
     {
       "sku": "PX-S1100BKC2",
@@ -682,7 +755,8 @@
       "price": 59995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s1100bk/assets/PX-S1100BK_main01.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S1100BK/",
-      "description": ""
+      "description": "",
+      "id": "8f80"
     },
     {
       "sku": "PX-S1100RDC2",
@@ -691,7 +765,8 @@
       "price": 59995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s1100rd/assets/PX-S1100RD_main01.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S1100RD/",
-      "description": ""
+      "description": "",
+      "id": "6282"
     },
     {
       "sku": "PX-S3100BK",
@@ -700,7 +775,8 @@
       "price": 76995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PXS/px-s3100bk/assets/PX-S3100BK_main01.png.transform/product-panel/image.png",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-S3100BK/",
-      "description": ""
+      "description": "",
+      "id": "3b3b"
     },
     {
       "sku": "CT-S1WEC2",
@@ -709,7 +785,8 @@
       "price": 16995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1WE/assets/CT-S1WE_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1WE/",
-      "description": ""
+      "description": "",
+      "id": "63ba"
     },
     {
       "sku": "CT-S1RD",
@@ -718,7 +795,8 @@
       "price": 16995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S1RD/assets/CT-S1RD_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S1RD/",
-      "description": ""
+      "description": "",
+      "id": "2fca"
     },
     {
       "sku": "CT-S300C2",
@@ -727,7 +805,8 @@
       "price": 11495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S300/assets/CT-S300_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S300/",
-      "description": ""
+      "description": "",
+      "id": "4780"
     },
     {
       "sku": "CT-S100C2",
@@ -736,7 +815,8 @@
       "price": 8295,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTS/CT-S100/assets/CT-S100_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-S100/",
-      "description": ""
+      "description": "",
+      "id": "882b"
     },
     {
       "sku": "LK-S250C2",
@@ -745,7 +825,8 @@
       "price": 15995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/L/LK/LKS/LK-S250/assets/LK-S250_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.LK-S250/",
-      "description": ""
+      "description": "",
+      "id": "f919"
     },
     {
       "sku": "CT-X700C2",
@@ -754,7 +835,8 @@
       "price": 13995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X700/assets/CT-X700_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X700/",
-      "description": ""
+      "description": "",
+      "id": "6fcf"
     },
     {
       "sku": "AP-470BKC2",
@@ -763,7 +845,8 @@
       "price": 92495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP4/AP-470BK/assets/AP-470BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-470BK/",
-      "description": ""
+      "description": "",
+      "id": "bb4f"
     },
     {
       "sku": "AP-270BKC2",
@@ -772,7 +855,8 @@
       "price": 76495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP2/AP-270BK/assets/AP-270BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-270BK/",
-      "description": ""
+      "description": "",
+      "id": "41af"
     },
     {
       "sku": "PX-770BKC2",
@@ -781,7 +865,8 @@
       "price": 69995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX7/PX-770BK/assets/PX-770BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-770BK/",
-      "description": ""
+      "description": "",
+      "id": "931f"
     },
     {
       "sku": "PX-870BKC2",
@@ -790,7 +875,8 @@
       "price": 89995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX8/PX-870BK/assets/PX-870BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-870BK/",
-      "description": ""
+      "description": "",
+      "id": "b2e1"
     },
     {
       "sku": "LK-S250C2",
@@ -799,7 +885,8 @@
       "price": 15995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/L/LK/LKS/LK-S250/assets/LK-S250_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.LK-S250/",
-      "description": ""
+      "description": "",
+      "id": "6828"
     },
     {
       "sku": "CT-X700C2",
@@ -808,7 +895,8 @@
       "price": 13995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/C/CT/CTX/CT-X700/assets/CT-X700_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.CT-X700/",
-      "description": ""
+      "description": "",
+      "id": "5f38"
     },
     {
       "sku": "AP-470BKC2",
@@ -817,7 +905,8 @@
       "price": 92495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP4/AP-470BK/assets/AP-470BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-470BK/",
-      "description": ""
+      "description": "",
+      "id": "dba0"
     },
     {
       "sku": "AP-270BKC2",
@@ -826,7 +915,8 @@
       "price": 76495,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/A/AP/AP2/AP-270BK/assets/AP-270BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.AP-270BK/",
-      "description": ""
+      "description": "",
+      "id": "e72a"
     },
     {
       "sku": "PX-770BKC2",
@@ -835,7 +925,8 @@
       "price": 69995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX7/PX-770BK/assets/PX-770BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-770BK/",
-      "description": ""
+      "description": "",
+      "id": "f89a"
     },
     {
       "sku": "PX-870BKC2",
@@ -844,201 +935,358 @@
       "price": 89995,
       "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/emi/product/P/PX/PX8/PX-870BK/assets/PX-870BK_Seq1.jpg.transform/product-panel/image.jpg",
       "url": "https://www.casio.com/in/electronic-musical-instruments/product.PX-870BK/",
-      "description": ""
+      "description": "",
+      "id": "939d"
     }
   ],
-  "Calculators":[
+  "Calculators": [
     {
-        "sku": "FX-991ESPLUS-2W1DT",
-        "product_name": "FX-991ESPLUS-2",
-        "product_type": "Normal Product",
-        "main_product_name": "FX-991ESPLUS-2",
-        "tag": "Natural textbook display",
-        "title": "Standard Scientific Calculators",
-        "code": "fx-991ES PLUS-2",
-        "price": 1395,
-        "url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2/",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991ESPLUS-2/assets/fx-991ES_PLUS-2_F.png.transform/product-panel/image.png"
+      "sku": "FX-991ESPLUS-2W1DT",
+      "product_name": "FX-991ESPLUS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-991ESPLUS-2",
+      "tag": "Natural textbook display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-991ES PLUS-2",
+      "price": 1395,
+      "url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991ESPLUS-2/assets/fx-991ES_PLUS-2_F.png.transform/product-panel/image.png",
+      "id": "a110"
     },
     {
-        "sku": "FX-991CW",
-        "product_name": "FX-991CW",
-        "product_type": "Normal Product",
-        "main_product_name": "FX-991CW",
-        "tag": "ClassWiz",
-        "title": "Standard Scientific Calculators",
-        "code": "fx-991CW",
-        "price": 1595,
-        "url": "https://www.casio.com/in/scientific-calculators/product.FX-991CW/",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991cw/assets/fx-991CW_F.png.transform/product-panel/image.png"
+      "sku": "FX-991CW",
+      "product_name": "FX-991CW",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-991CW",
+      "tag": "ClassWiz",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-991CW",
+      "price": 1595,
+      "url": "https://www.casio.com/in/scientific-calculators/product.FX-991CW/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991cw/assets/fx-991CW_F.png.transform/product-panel/image.png",
+      "id": "6826"
     },
     {
-        "sku": "FC-200V-2",
-        "product_name": "FC-200V-2",
-        "product_type": "Normal Product",
-        "main_product_name": "FC-200V-2",
-        "tag": "Solar & Battery",
-        "title": "Financial Calculators",
-        "code": "FC-200V-2",
-        "price": 2995,
-        "url": "https://www.casio.com/in/scientific-calculators/product.FC-200V-2/",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FC/FC2/fc-200v-2/assets/FC-200V-2_F.png.transform/product-panel/image.png"
+      "sku": "FC-200V-2",
+      "product_name": "FC-200V-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FC-200V-2",
+      "tag": "Solar & Battery",
+      "title": "Financial Calculators",
+      "code": "FC-200V-2",
+      "price": 2995,
+      "url": "https://www.casio.com/in/scientific-calculators/product.FC-200V-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FC/FC2/fc-200v-2/assets/FC-200V-2_F.png.transform/product-panel/image.png",
+      "id": "77fb"
     },
     {
-        "sku": "FC-200V",
-        "product_name": "FC-200V",
-        "product_type": "Normal Product",
-        "main_product_name": "FC-200V",
-        "tag": "Solar & Battery",
-        "title": "Financial Calculators",
-        "code": "FC-200V",
-        "price": 2695,
-        "url": "https://www.casio.com/in/scientific-calculators/product.FC-200V/",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FC/FC2/FC-200V/assets/FC200V_Seq1.jpg.transform/product-panel/image.jpg"
+      "sku": "FC-200V",
+      "product_name": "FC-200V",
+      "product_type": "Normal Product",
+      "main_product_name": "FC-200V",
+      "tag": "Solar & Battery",
+      "title": "Financial Calculators",
+      "code": "FC-200V",
+      "price": 2695,
+      "url": "https://www.casio.com/in/scientific-calculators/product.FC-200V/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FC/FC2/FC-200V/assets/FC200V_Seq1.jpg.transform/product-panel/image.jpg",
+      "id": "9682"
     },
     {
-        "sku": "FX-9860GIII-S-DT",
-        "product_name": "FX-9860GIII",
-        "product_type": "Normal Product",
-        "main_product_name": "FX-9860GIII",
-        "tag": "Python",
-        "title": "Graphing Calculators",
-        "code": "fx-9860GIII",
-        "price": 8495,
-        "url": "https://www.casio.com/in/scientific-calculators/product.FX-9860GIII/",
-        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-9860GIII/assets/fx-9860GIII_Seq1.jpg.transform/product-panel/image.jpg"
+      "sku": "FX-9860GIII-S-DT",
+      "product_name": "FX-9860GIII",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-9860GIII",
+      "tag": "Python",
+      "title": "Graphing Calculators",
+      "code": "fx-9860GIII",
+      "price": 8495,
+      "url": "https://www.casio.com/in/scientific-calculators/product.FX-9860GIII/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-9860GIII/assets/fx-9860GIII_Seq1.jpg.transform/product-panel/image.jpg",
+      "id": "f2e9"
     },
-  {
-    "sku": "FX-CG50-S-DH",
-    "product_name": "FX-CG50",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-CG50",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-CG50/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FXC/fx-CG50/assets/fx-CG50_Seq1.jpg.transform/product-panel/image.jpg",
-    "tag": "3D graph / Color display",
-    "title": "Graphing Calculators",
-    "code": "fx-CG50",
-    "price": 13995
-  },
-  {
-    "sku": "FX-5800P-W-DH",
-    "product_name": "FX-5800P",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-5800P",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-5800P/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX5/fx-5800P/assets/fx-5800P_Seq1.jpg.transform/product-panel/image.jpg",
-    "tag": "Natural textbook display / 4-line display",
-    "title": "Programmable Calculators",
-    "code": "fx-5800P",
-    "price": 5295
-  },
-  {
-    "sku": "FX-100MS-2-W1-DT",
-    "product_name": "FX-100MS-2",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-100MS-2",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-100MS-2/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX1/fx-100MS-2/assets/fx-100MS-2_Seq1.jpg.transform/product-panel/image.jpg",
-    "tag": "2-line display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-100MS-2",
-    "price": 1045
-  },
-  {
-    "sku": "FX-350MS-2-W1-DT",
-    "product_name": "FX-350MS-2",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-350MS-2",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-350MS-2/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX3/fx-350MS-2/assets/fx-350MS-2_Seq1.jpg.transform/product-panel/image.jpg",
-    "tag": "2-line display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-350MS-2",
-    "price": 660
-  },
-  {
-    "sku": "FX-82ESPLUS-2-W1DT",
-    "product_name": "FX-82ESPLUS-2",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-82ESPLUS-2",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82ESPLUS-2/assets/fx-82ES_PLUS-2_F.png.transform/product-panel/image.png",
-    "tag": "Natural textbook display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-82ES PLUS-2",
-    "price": 745
-  },
-  {
-    "sku": "FX-82ESPLUS-2BU",
-    "product_name": "FX-82ESPLUS-2BU",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-82ESPLUS-2BU",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2BU/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82esplus-2bu/assets/fx-82ES_PLUS-2BU_F.png.transform/product-panel/image.png",
-    "tag": "Natural textbook display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-82ES PLUS-2BU",
-    "price": 745
-  },
-  {
-    "sku": "FX-82ESPLUS-2PK",
-    "product_name": "FX-82ESPLUS-2PK",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-82ESPLUS-2PK",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2PK/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82esplus-2pk/assets/fx-82ES_PLUS-2PK_F.png.transform/product-panel/image.png",
-    "tag": "Natural textbook display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-82ES PLUS-2PK",
-    "price": 745
-  },
-  {
-    "sku": "FX-82MS-2-W1-DT",
-    "product_name": "FX-82MS-2",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-82MS-2",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82MS-2/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82MS-2/assets/fx-82MS-2_Seq1.jpg.transform/product-panel/image.jpg",
-    "tag": "2-line display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-82MS-2",
-    "price": 625
-  },
-  {
-    "sku": "FX-991ESPLUS2BU",
-    "product_name": "FX-991ESPLUS-2BU",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-991ESPLUS-2BU",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2BU/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991esplus-2bu/assets/fx-991ES_PLUS-2BU_F.png.transform/product-panel/image.png",
-    "tag": "Natural textbook display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-991ES PLUS-2BU",
-    "price": 1395
-  },
-  {
-    "sku": "FX-991ESPLUS2PK",
-    "product_name": "FX-991ESPLUS-2PK",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-991ESPLUS-2PK",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2PK/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991esplus-2pk/assets/fx-991ES_PLUS-2PK_F.png.transform/product-panel/image.png",
-    "tag": "Natural textbook display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-991ES PLUS-2PK",
-    "price": 1395
-  },
-  {
-    "sku": "FX-991MS-2-W1-DT",
-    "product_name": "FX-991MS-2",
-    "product_type": "Normal Product",
-    "main_product_name": "FX-991MS-2",
-    "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991MS-2/",
-    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991MS-2/assets/fx-991MS-2_Seq1.jpg.transform/product-panel/image.jpg",
-    "tag": "2-line display",
-    "title": "Standard Scientific Calculators",
-    "code": "fx-991MS-2",
-    "price": 1245
-  }
-]
+    {
+      "sku": "FX-CG50-S-DH",
+      "product_name": "FX-CG50",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-CG50",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-CG50/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FXC/fx-CG50/assets/fx-CG50_Seq1.jpg.transform/product-panel/image.jpg",
+      "tag": "3D graph / Color display",
+      "title": "Graphing Calculators",
+      "code": "fx-CG50",
+      "price": 13995,
+      "id": "be84"
+    },
+    {
+      "sku": "FX-5800P-W-DH",
+      "product_name": "FX-5800P",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-5800P",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-5800P/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX5/fx-5800P/assets/fx-5800P_Seq1.jpg.transform/product-panel/image.jpg",
+      "tag": "Natural textbook display / 4-line display",
+      "title": "Programmable Calculators",
+      "code": "fx-5800P",
+      "price": 5295,
+      "id": "50e7"
+    },
+    {
+      "sku": "FX-100MS-2-W1-DT",
+      "product_name": "FX-100MS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-100MS-2",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-100MS-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX1/fx-100MS-2/assets/fx-100MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+      "tag": "2-line display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-100MS-2",
+      "price": 1045,
+      "id": "a51b"
+    },
+    {
+      "sku": "FX-350MS-2-W1-DT",
+      "product_name": "FX-350MS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-350MS-2",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-350MS-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX3/fx-350MS-2/assets/fx-350MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+      "tag": "2-line display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-350MS-2",
+      "price": 660,
+      "id": "4e08"
+    },
+    {
+      "sku": "FX-82ESPLUS-2-W1DT",
+      "product_name": "FX-82ESPLUS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-82ESPLUS-2",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82ESPLUS-2/assets/fx-82ES_PLUS-2_F.png.transform/product-panel/image.png",
+      "tag": "Natural textbook display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-82ES PLUS-2",
+      "price": 745,
+      "id": "cc7f"
+    },
+    {
+      "sku": "FX-82ESPLUS-2BU",
+      "product_name": "FX-82ESPLUS-2BU",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-82ESPLUS-2BU",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2BU/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82esplus-2bu/assets/fx-82ES_PLUS-2BU_F.png.transform/product-panel/image.png",
+      "tag": "Natural textbook display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-82ES PLUS-2BU",
+      "price": 745,
+      "id": "feab"
+    },
+    {
+      "sku": "FX-82ESPLUS-2PK",
+      "product_name": "FX-82ESPLUS-2PK",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-82ESPLUS-2PK",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82ESPLUS-2PK/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82esplus-2pk/assets/fx-82ES_PLUS-2PK_F.png.transform/product-panel/image.png",
+      "tag": "Natural textbook display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-82ES PLUS-2PK",
+      "price": 745,
+      "id": "2099"
+    },
+    {
+      "sku": "FX-82MS-2-W1-DT",
+      "product_name": "FX-82MS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-82MS-2",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82MS-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82MS-2/assets/fx-82MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+      "tag": "2-line display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-82MS-2",
+      "price": 625,
+      "id": "2273"
+    },
+    {
+      "sku": "FX-991ESPLUS2BU",
+      "product_name": "FX-991ESPLUS-2BU",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-991ESPLUS-2BU",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2BU/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991esplus-2bu/assets/fx-991ES_PLUS-2BU_F.png.transform/product-panel/image.png",
+      "tag": "Natural textbook display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-991ES PLUS-2BU",
+      "price": 1395,
+      "id": "0b0c"
+    },
+    {
+      "sku": "FX-991ESPLUS2PK",
+      "product_name": "FX-991ESPLUS-2PK",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-991ESPLUS-2PK",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991ESPLUS-2PK/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991esplus-2pk/assets/fx-991ES_PLUS-2PK_F.png.transform/product-panel/image.png",
+      "tag": "Natural textbook display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-991ES PLUS-2PK",
+      "price": 1395,
+      "id": "1d09"
+    },
+    {
+      "sku": "FX-991MS-2-W1-DT",
+      "product_name": "FX-991MS-2",
+      "product_type": "Normal Product",
+      "main_product_name": "FX-991MS-2",
+      "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-991MS-2/",
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX9/fx-991MS-2/assets/fx-991MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+      "tag": "2-line display",
+      "title": "Standard Scientific Calculators",
+      "code": "fx-991MS-2",
+      "price": 1245,
+      "id": "8d3b"
+    }
+  ],
+  "users": [
+    {
+      "id": "f0ef",
+      "username": "sumit singh",
+      "password": "sumitk",
+      "email": "sg64118@gmail.com"
+    },
+    {
+      "id": "758c",
+      "username": "sumitfffr",
+      "password": "sumitt",
+      "email": "dda@gmail.com"
+    },
+    {
+      "id": "0fbd",
+      "username": "sumitfffrr",
+      "password": "sumittt",
+      "email": "sg644111@gmail.com"
+    },
+    {
+      "id": "e9b6",
+      "username": "sourav",
+      "password": "sourav",
+      "email": "sourav@gmail.com"
+    },
+    {
+      "id": "d264",
+      "username": "sumit gautam",
+      "password": "gautam",
+      "email": "dsda@gmail.com"
+    },
+    {
+      "id": "5e75",
+      "username": "amit kumar",
+      "password": "amitkumar",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "1197",
+      "username": "sumit1",
+      "password": "sumit1",
+      "email": "sg6441118@gmail.com"
+    },
+    {
+      "id": "4c95",
+      "username": "sumit singh 3",
+      "password": "sumitku",
+      "email": "dqqda@gmail.com"
+    },
+    {
+      "id": "1a23",
+      "username": "sumitfffrr3",
+      "password": "sumitd",
+      "email": "sg6441118@gmail.com"
+    },
+    {
+      "id": "290b",
+      "username": "sumit singh 33",
+      "password": "qwerty",
+      "email": "sourav@gmail.com"
+    },
+    {
+      "id": "2665",
+      "username": "sumit gautam 123",
+      "password": "qwerty",
+      "email": "sf64411@gmail.com"
+    },
+    {
+      "id": "1374",
+      "username": "sumit",
+      "password": "qwerty",
+      "email": "kumar@gmail.com"
+    },
+    {
+      "id": "6f58",
+      "username": "sumit5",
+      "password": "sumith",
+      "email": "sg6441118@gmail.com"
+    },
+    {
+      "id": "2e54",
+      "username": "Rishav kumar",
+      "password": "rishav123",
+      "email": "rishav@gmail.com"
+    },
+    {
+      "id": "4c55",
+      "username": "sumit6",
+      "password": "sumith",
+      "email": "sg6441118@gmail.com"
+    },
+    {
+      "id": "6eaf",
+      "username": "sumit walia",
+      "password": "walia123",
+      "email": "walia@gmail.com"
+    },
+    {
+      "id": "5390",
+      "username": "Rishab kumar",
+      "password": "rishav1",
+      "email": "kumar@gmail.com"
+    },
+    {
+      "id": "906a",
+      "username": "sumitfffrruu",
+      "password": "qwerty",
+      "email": "sg6441118@gmail.com"
+    },
+    {
+      "id": "f6a4",
+      "username": "sumitfffrruurty",
+      "password": "qwerty",
+      "email": "sg6441118@gmail.com"
+    },
+    {
+      "id": "d877",
+      "username": "sumitwreth",
+      "password": "sumit1",
+      "email": "dda@gmail.com"
+    },
+    {
+      "id": "ddb3",
+      "username": "sumitwrethre",
+      "password": "sumit1",
+      "email": "dda@gmail.com"
+    },
+    {
+      "id": "f408",
+      "username": "Deepak Kumar",
+      "password": "deepak1",
+      "email": "deepakkumar@gmail.com"
+    },
+    {
+      "id": "d038",
+      "username": "Deepak Dhayani",
+      "password": "sumit1",
+      "email": "dytfqtfd@gmail.com"
+    }
+  ]
 }
