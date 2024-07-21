@@ -1,4 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
+    const home=document.querySelector(".logo");
+
+    home.addEventListener("click", function() {
+        window.location.href = "index.html"
+    });
     const currentUser = JSON.parse(localStorage.getItem("current_user"));
 
     if (currentUser) {

@@ -1,5 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Function to switch to the sign-up form
+    const home=document.querySelector("#logo");
+    home.addEventListener("click", function () {
+        window.location.href="index.html"
+    })
     function redirectToSignup() {
         document.querySelector('.sign_in_box').classList.add('form_none');
         document.querySelector('.sign_up_box').classList.remove('form_none');
@@ -20,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const username = document.getElementById('login-username').value;
         const password = document.getElementById('login-password').value;
 
-        fetch(`http://localhost:3000/users?username=${username}`)
+        fetch(`https://chronotech-api-1.onrender.com/users?username=${username}`)
             .then(response => response.json())
             .then(users => {
                 if (users.length > 0) {
@@ -61,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
             return;
         }
 
-        fetch('http://localhost:3000/users')
+        fetch('https://chronotech-api-1.onrender.com/users')
             .then(response => response.json())
             .then(users => {
                 const existingUser = users.find(user => user.username === username);
@@ -76,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     email: email
                 };
 
-                fetch('http://localhost:3000/users', {
+                fetch('https://chronotech-api-1.onrender.com/users', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'

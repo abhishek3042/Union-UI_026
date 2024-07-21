@@ -6,11 +6,17 @@ const musicalInstrumentsBtn = document.getElementById("displayMusicalInstruments
 const calculatorsBtn = document.getElementById("displayCalculators");
 const searchInput = document.getElementById('searchInput');
 const totalItems = document.getElementById("totalProducts");
-const baseURL = "http://localhost:3000/";
+const baseURL = "https://chronotech-api-1.onrender.com/";
 let allProductsData = [];
 let currentData = [];
 let start = 0;
 const limit = 12;
+
+const home=document.querySelector(".logo");
+
+home.addEventListener("click", function() {
+    window.location.href = "index.html"
+}); 
 
 const fetchData = async (URL) => {
     try {

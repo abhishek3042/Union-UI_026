@@ -59,6 +59,12 @@
 // });
 
 document.addEventListener("DOMContentLoaded", () => {
+
+    const home=document.querySelector(".logo");
+
+    home.addEventListener("click", function() {
+        window.location.href = "index.html"
+    });
     // Retrieve product details from local storage
     const productDetails = JSON.parse(localStorage.getItem("current_productdetails"));
     // Retrieve user information from local storage
@@ -93,7 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     function addToCart(userId, product) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const cart = user.cart || [];
@@ -106,7 +112,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     cart.push(product);
                 }
 
-                fetch(`http://localhost:3000/users/${userId}`, {
+                fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                     method: 'PATCH',
                     headers: {
                         'Content-Type': 'application/json'
@@ -128,7 +134,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function addToWishlist(userId, product) {
-        fetch(`http://localhost:3000/users/${userId}`)
+        fetch(`https://chronotech-api-1.onrender.com/users/${userId}`)
             .then(response => response.json())
             .then(user => {
                 const wishlist = user.wishlist || [];
@@ -137,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (productIndex === -1) {
                     wishlist.push(product);
 
-                    fetch(`http://localhost:3000/users/${userId}`, {
+                    fetch(`https://chronotech-api-1.onrender.com/users/${userId}`, {
                         method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
