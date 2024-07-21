@@ -9,6 +9,8 @@ const totalItems = document.getElementById("totalProducts");
 const baseURL = "http://localhost:3000/";
 let allProductsData = [];
 let currentData = [];
+let start = 0;
+const limit = 12;
 
 const fetchData = async (URL) => {
     try {
@@ -19,42 +21,7 @@ const fetchData = async (URL) => {
         console.log(err);
     }
 };
-let start=0;
-let limit=12;
 
-
-
-
-let displayProducts= async(URL)=>{
-let data=await fetchData(URL);
-// productsDisplay.innerHTML=""
-// document.getElementById("totalItems").innerText=`${data.length} Items`;
-for(let i=start;i<start+limit;i++){
-    let product=data[i];
-    let card=document.createElement("div");
-    card.className="card";
-    let img=document.createElement("img");
-    img.src=product.image;
-    let h3=document.createElement("h5");
-    h3.innerText=product.title;
-    let productName=document.createElement("p");
-    productName.innerText=product.product_name;
-    // let p=document.createElement("p");
-    // p.innerText=product.description;
-    let price=document.createElement("p");
-    price.innerText=`₹ ${product.price} (incl. of all taxes)`;
-    card.addEventListener("click", () => {
-      localStorage.setItem("current_productdetails", JSON.stringify(product));
-      window.location.href = "productDetails.html";
-  });
-    card.append(img,h3,productName,price);
-    productsDisplay.append(card);
-    // scrollsection.append(card);
-}
-}
-displayProducts(`${baseURL}Watches`);
-// displayProducts(`${baseURL}Musical_Instruments`);
-// displayProducts(`${baseURL}Calculators`);
 const getAllProducts = async () => {
     allProductsData = [];
     let watchesData = await fetchData(`${baseURL}Watches`);
@@ -66,7 +33,40 @@ const getAllProducts = async () => {
     displayProducts(currentData);
 };
 
+const displayProducts = (data) => {
+    totalItems.innerText = data.length;
+    // If starting from the beginning, clear the previous content
+    if (start === 0) productsDisplay.innerHTML = "";
 
+    for (let i = start; i < start + limit && i < data.length; i++) {    
+        let product = data[i];
+        let card = document.createElement("div");
+        card.className = "card";
+        let img_div=document.createElement("div");
+        img_div.className="img_div";
+        let img = document.createElement("img");
+        img.className = "product-image";
+        img.src = product.image;
+        img_div.append(img)
+        let title = document.createElement("h5");
+        title.className = "product-title";
+        title.innerText = product.title;
+
+        let productName = document.createElement("p");
+        productName.className = "product-name";
+        productName.innerText = product.product_name;
+
+        let price = document.createElement("p");
+        price.className = "product-price";
+        price.innerText = `₹ ${product.price} (incl. of all taxes)`;
+        card.addEventListener("click", () => {
+            localStorage.setItem("current_productdetails", JSON.stringify(product));
+            window.location.href="ProductDetails.html"
+        });
+        card.append(img_div,title, productName, price);
+        productsDisplay.append(card);
+    }
+};
 
 const handleScroll = () => {
     let scrollHeight = document.documentElement.scrollHeight;
