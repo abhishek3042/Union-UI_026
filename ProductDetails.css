@@ -7,7 +7,14 @@
     margin: 20px auto;
     font-family: Arial, sans-serif;
 }
-
+header a{
+    text-decoration: none;
+    color: black;
+}
+#orderbtn{
+    text-decoration: none;
+    color:#f9fbfd;
+}
 #productDetails {
     display: flex;
     gap: 20px;

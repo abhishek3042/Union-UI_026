@@ -1,3 +1,7 @@
+header a{
+    text-decoration: none;
+    color: black;
+}
 #Hero_section{
     /* height: 300px; */
     width: 80vw;
@@ -83,8 +87,11 @@
 }
   #scroll_section {
     width: 40%;
-    border: 2px solid black;
-    height: 700px;
+    background-color: #f8f4f4;
+    /* border: 2px solid black; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin-right: 20px;
+    height: 600px;
     position: sticky;
     top: 0;
     overflow-y: auto;
@@ -107,19 +114,26 @@ fieldset {
 legend {
     font-weight: bold;
 }
-
-#sorting_filtering_section button {
+#applySort #applyFilter{
     margin: 5px 0;
     padding: 5px 10px;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #2e6877;
+    color: rgb(53, 52, 52);
     border: none;
     cursor: pointer;
     border-radius: 4px;
 }
-
-#sorting_filtering_section button:hover {
-    background-color: #204922;
+#sorting_filtering_section button {
+    margin: 5px 0;
+    padding: 5px 10px;
+    background-color: #e5eeee;
+    color: rgb(53, 52, 52);
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+#applySort:hover, #applyFilter:hover{
+    background-color: #8cd9ea;
 }
 
 input[type="radio"], input[type="checkbox"] {
@@ -148,8 +162,8 @@ label {
 
 /* Buttons styling */
 .nav-button {
-    background-color: #007bff;
-    color: white;
+    background-color: #dee5ec;
+    color: rgb(72, 67, 67);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -160,6 +174,7 @@ label {
 
 .nav-button:hover {
     background-color: #0056b3;
+    color: white;
 }
 
 /* Form styling */
@@ -210,4 +225,8 @@ label {
     display: inline;
     font-size: 22px;
     color: #333;
+}
+#orderbtn{
+    text-decoration: none;
+    color:#f9fbfd;
 }

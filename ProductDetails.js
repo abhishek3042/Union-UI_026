@@ -131,6 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .catch(error => {
                 console.error('Error:', error);
             });
+            
     }
 
     function addToWishlist(userId, product) {

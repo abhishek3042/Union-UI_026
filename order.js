@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             addMoneySection.innerHTML = '';
         }
-
+        document.getElementById('checkoutButton')?.remove();
         const checkoutButton = document.createElement('button');
         checkoutButton.id = 'checkoutButton';
         checkoutButton.textContent = 'Checkout';
