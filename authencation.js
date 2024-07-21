@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     const user = users[0];
                     if (user.password === password) {
                         alert('Logged in successfully!');
+                        localStorage.setItem('current_user', JSON.stringify(user));
                         displayUsername(user.username); // Display username
                     } else {
                         alert('Incorrect password.');

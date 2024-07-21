@@ -1154,97 +1154,23 @@
       "id": "f0ef",
       "username": "sumit singh",
       "password": "sumitk",
-      "email": "sg64118@gmail.com"
-    },
-    {
-      "id": "758c",
-      "username": "sumitfffr",
-      "password": "sumitt",
-      "email": "dda@gmail.com"
-    },
-    {
-      "id": "0fbd",
-      "username": "sumitfffrr",
-      "password": "sumittt",
-      "email": "sg644111@gmail.com"
-    },
-    {
-      "id": "e9b6",
-      "username": "sourav",
-      "password": "sourav",
-      "email": "sourav@gmail.com"
-    },
-    {
-      "id": "d264",
-      "username": "sumit gautam",
-      "password": "gautam",
-      "email": "dsda@gmail.com"
-    },
-    {
-      "id": "5e75",
-      "username": "amit kumar",
-      "password": "amitkumar",
-      "email": "a@gmail.com"
-    },
-    {
-      "id": "1197",
-      "username": "sumit1",
-      "password": "sumit1",
-      "email": "sg6441118@gmail.com"
-    },
-    {
-      "id": "4c95",
-      "username": "sumit singh 3",
-      "password": "sumitku",
-      "email": "dqqda@gmail.com"
-    },
-    {
-      "id": "1a23",
-      "username": "sumitfffrr3",
-      "password": "sumitd",
-      "email": "sg6441118@gmail.com"
-    },
-    {
-      "id": "290b",
-      "username": "sumit singh 33",
-      "password": "qwerty",
-      "email": "sourav@gmail.com"
-    },
-    {
-      "id": "2665",
-      "username": "sumit gautam 123",
-      "password": "qwerty",
-      "email": "sf64411@gmail.com"
-    },
-    {
-      "id": "1374",
-      "username": "sumit",
-      "password": "qwerty",
-      "email": "kumar@gmail.com"
-    },
-    {
-      "id": "6f58",
-      "username": "sumit5",
-      "password": "sumith",
-      "email": "sg6441118@gmail.com"
-    },
-    {
-      "id": "2e54",
-      "username": "Rishav kumar",
-      "password": "rishav123",
-      "email": "rishav@gmail.com"
-    },
-    {
-      "id": "4c55",
-      "username": "sumit6",
-      "password": "sumith",
-      "email": "sg6441118@gmail.com"
-    },
-    {
-      "id": "6eaf",
-      "username": "sumit walia",
-      "password": "walia123",
-      "email": "walia@gmail.com"
+      "email": "sg64118@gmail.com",
+      "cart": [
+        {
+          "sku": "FX-82MS-2-W1-DT",
+          "product_name": "FX-82MS-2",
+          "product_type": "Normal Product",
+          "main_product_name": "FX-82MS-2",
+          "product_url": "https://www.casio.com/in/scientific-calculators/product.FX-82MS-2/",
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/calc/product/scientific/F/FX/FX8/fx-82MS-2/assets/fx-82MS-2_Seq1.jpg.transform/product-panel/image.jpg",
+          "tag": "2-line display",
+          "title": "Standard Scientific Calculators",
+          "code": "fx-82MS-2",
+          "price": 625,
+          "id": "2273",
+          "quantity": 4
+        }
+      ]
     },
     {
       "id": "5390",
@@ -1253,40 +1179,106 @@
       "email": "kumar@gmail.com"
     },
     {
-      "id": "906a",
-      "username": "sumitfffrruu",
-      "password": "qwerty",
-      "email": "sg6441118@gmail.com"
-    },
-    {
-      "id": "f6a4",
-      "username": "sumitfffrruurty",
-      "password": "qwerty",
-      "email": "sg6441118@gmail.com"
-    },
-    {
-      "id": "d877",
-      "username": "sumitwreth",
-      "password": "sumit1",
-      "email": "dda@gmail.com"
-    },
-    {
-      "id": "ddb3",
-      "username": "sumitwrethre",
-      "password": "sumit1",
-      "email": "dda@gmail.com"
-    },
-    {
-      "id": "f408",
-      "username": "Deepak Kumar",
-      "password": "deepak1",
-      "email": "deepakkumar@gmail.com"
-    },
-    {
-      "id": "d038",
-      "username": "Deepak Dhayani",
-      "password": "sumit1",
-      "email": "dytfqtfd@gmail.com"
+      "username": "abskmsra",
+      "password": "123456",
+      "email": "abskmi3042@gmail.com",
+      "id": "kFjL7wX",
+      "cart": [
+        {
+          "sku": "GA-2100MNG-2ADR",
+          "product_name": "GA-2100MNG-2A",
+          "product_type": "Normal Product",
+          "main_product_name": "GA-2100MNG-2A",
+          "tag": "NEW",
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA2/ga-2100mng-2a/assets/GA-2100MNG-2A.png.transform/product-panel/image.png",
+          "title": "G-SHOCK",
+          "code": "GA-2100MNG-2A",
+          "price": 11495,
+          "id": "e2b3",
+          "quantity": 1
+        },
+        {
+          "sku": "MTP-E340D-3AVDF",
+          "product_name": "MTP-E340D-3AV",
+          "productType": "Normal Product",
+          "main_product_name": "MTP-E340D-3AV",
+          "title": "CASIO",
+          "price": 6495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-3av/assets/MTP-E340D-3AV.png.transform/product-panel/image.png",
+          "id": "61a6",
+          "quantity": 1
+        },
+        {
+          "sku": "ECB-2000SS-2ADR",
+          "product_name": "ECB-2000SS-2A",
+          "productType": "Normal Product",
+          "main_product_name": "ECB-2000SS-2A",
+          "title": "CASIO",
+          "price": 27495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2000ss-2a/assets/ECB-2000SS-2A.png.transform/product-panel/image.png",
+          "id": "4869",
+          "quantity": 6
+        }
+      ],
+      "wallet": 50020,
+      "orders": [
+        {
+          "sku": "TRN-50SS-2ADR",
+          "product_name": "TRN-50SS-2A",
+          "productType": "Normal Product",
+          "main_product_name": "TRN-50SS-2A",
+          "title": "CASIO",
+          "price": 42495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png",
+          "id": "fa4e",
+          "quantity": 3
+        },
+        {
+          "sku": "TRN-50SS-2ADR",
+          "product_name": "TRN-50SS-2A",
+          "productType": "Normal Product",
+          "main_product_name": "TRN-50SS-2A",
+          "title": "CASIO",
+          "price": 42495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png",
+          "id": "fa4e",
+          "quantity": 1
+        },
+        {
+          "sku": "TRN-50SS-2ADR",
+          "product_name": "TRN-50SS-2A",
+          "productType": "Normal Product",
+          "main_product_name": "TRN-50SS-2A",
+          "title": "CASIO",
+          "price": 42495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/T/TR/trn/trn-50ss-2a/assets/TRN-50SS-2A.png.transform/product-panel/image.png",
+          "id": "fa4e",
+          "quantity": 3
+        }
+      ],
+      "wishlist": [
+        {
+          "sku": "ECB-2000SS-2ADR",
+          "product_name": "ECB-2000SS-2A",
+          "productType": "Normal Product",
+          "main_product_name": "ECB-2000SS-2A",
+          "title": "CASIO",
+          "price": 27495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2000ss-2a/assets/ECB-2000SS-2A.png.transform/product-panel/image.png",
+          "id": "4869"
+        },
+        {
+          "sku": "MTP-E340D-7AVDF",
+          "product_name": "MTP-E340D-7AV",
+          "productType": "Normal Product",
+          "main_product_name": "MTP-E340D-7AV",
+          "title": "CASIO",
+          "price": 6495,
+          "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-e340d-7av/assets/MTP-E340D-7AV.png.transform/product-panel/image.png",
+          "id": "0d5f",
+          "quantity": 1
+        }
+      ]
     }
   ]
 }
