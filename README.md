@@ -1,4 +1,4 @@
-# Union-UI_026
+# Union-UI_026 (Chronotech)
 
 
 ## Introduction
@@ -12,9 +12,8 @@ Frontend: https://deployed-site.whatever <br>
 Database: [API link](https://chronotech-api-1.onrender.com)
 
 ## Directory Structure
-my-app/
-
-├─ backend/ <br>
+my-app/<br>
+├─ backend/<br>
 ├─ frontend/<br>
 │  ├─ index.html<br>
 │  ├─ product.html<br>
@@ -34,9 +33,6 @@ my-app/
 
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
-
-## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
 
 ## Features
 List out the key features of your application.
@@ -59,10 +55,10 @@ Detailed instructions on how to install, configure, and get the project running.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/chronotech.git
+git clone https://github.com/abhishek3042/Union-UI_026.git
 
 # Navigate to the project directory
-cd chronotech
+cd Union-UI_026
 
 # Install dependencies
 npm install
