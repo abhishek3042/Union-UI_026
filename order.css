@@ -1,0 +1,157 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Order_Details_section {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+#left_ordercontainer{
+    width: 50%;
+}
+
+/* Styling for the cart items container */
+#orderContainer {
+    width: 90%;
+    margin-right: 20px;
+}
+
+.cartItem {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+}
+
+.cartItem img {
+    width: 120px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.cartItemDetails {
+    flex-grow: 1;
+}
+
+.cartItemDetails h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.cartItemDetails p {
+    margin: 5px 0;
+}
+
+button {
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 0.9em;
+    margin: 2px;
+}
+
+/* Styling for the summary section */
+#orderSummary {
+    padding: 50px;
+    width: 50%;
+}
+
+#walletBalance, #totalValue, #addMoneySection {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+#totalValue {
+    font-weight: bold;
+}
+
+#addMoneySection button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#addMoneySection button:hover {
+    background-color: #0056b3;
+}
+
+#checkoutButton {
+    display: block;
+    width: 100%;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#checkoutButton:hover {
+    background-color: #218838;
+}
+/* Additional styles for wishlist container */
+#wishlistContainer {
+    width: 70%;
+    margin-right: 20px;
+}
+
+#wishlistContainer h1 {
+    margin-bottom: 20px;
+}
+
+.wishlistItem {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+}
+
+.wishlistItem img {
+    width: 120px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.wishlistItemDetails {
+    flex-grow: 1;
+}
+
+.wishlistItemDetails h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.wishlistItemDetails p {
+    margin: 5px 0;
+}
+
+.wishlistItem button {
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 0.9em;
+    margin-right: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+.wishlistItem button:hover {
+    background-color: #0056b3;
+}
