@@ -332,6 +332,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 .then(data => {
                     console.log('Checkout successful:', data);
                     displayCartItems([], userId, updatedWallet);
+                    displayWalletBalance(updatedWallet) 
                 })
                 .catch(error => {
                     console.error('Error:', error);
