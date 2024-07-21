@@ -19,10 +19,10 @@ const fetchData = async (URL) => {
         console.log(err);
     }
 };
-let start=1;
+let start=0;
 let limit=12;
 
-let baseURL="http://localhost:3000/";
+
 
 
 let displayProducts= async(URL)=>{
@@ -66,36 +66,7 @@ const getAllProducts = async () => {
     displayProducts(currentData);
 };
 
-const displayProducts = (data) => {
-    totalItems.innerText = data.length;
-    // If starting from the beginning, clear the previous content
-    if (start === 0) productsDisplay.innerHTML = "";
 
-    for (let i = start; i < start + limit && i < data.length; i++) {    
-        let product = data[i];
-        let card = document.createElement("div");
-        card.className = "card";
-        let img_div=document.createElement("div");
-        img_div.className="img_div";
-        let img = document.createElement("img");
-        img.className = "product-image";
-        img.src = product.image;
-        img_div.append(img)
-        let title = document.createElement("h5");
-        title.className = "product-title";
-        title.innerText = product.title;
-
-        let productName = document.createElement("p");
-        productName.className = "product-name";
-        productName.innerText = product.product_name;
-
-        let price = document.createElement("p");
-        price.className = "product-price";
-        price.innerText = `₹ ${product.price} (incl. of all taxes)`;
-        card.append(img_div,title, productName, price);
-        productsDisplay.append(card);
-    }
-};
 
 const handleScroll = () => {
     let scrollHeight = document.documentElement.scrollHeight;
