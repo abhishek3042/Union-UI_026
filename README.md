@@ -8,7 +8,7 @@ Chronotech is an e-commerce website designed to sell watches, musical instrument
 Fullstack
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever <br>
+Frontend: https://chronotech.netlify.app/ <br>
 Database: [API link](https://chronotech-api-1.onrender.com)
 
 ## Directory Structure
@@ -86,6 +86,12 @@ Password: 123456
 [API link](https://chronotech-api-1.onrender.com)
 
 ## API Endpoints
+GET    /Watches
+POST   /users
+PUT    /users/:id
+PATCH  /users/:id
+DELETE /users/:id
+
 Resources:<br>
 https://chronotech-api-1.onrender.com/Watches 40x<br>
 https://chronotech-api-1.onrender.com/Musical_Instruments 52x<br>
