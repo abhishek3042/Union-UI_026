@@ -1,17 +1,111 @@
-#main{
-    border: 1px solid black;
+#main {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
 }
 
-#productDetails{
-    border: 1px solid black;
-}
-#left_image_section{
-    border: 1px solid black;
-}
-#ain_productImage{
-    border: 1px solid black;
-}
-#features{
+#productDetails {
     display: flex;
-    border: 1px solid black;
+    gap: 20px;
+}
+
+#left_image_section, #details_section {
+    flex: 1;
+}
+
+#left_image_section {
+    border-right: 1px solid #eee;
+    padding-right: 20px;
+}
+
+#main_productImage {
+    text-align: center;
+}
+
+#main_productImage img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+#features div {
+    text-align: center;
+}
+
+#features img {
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+#details_section {
+    padding-left: 20px;
+}
+
+#details_Buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+#details_Buttons button {
+    width: 300px;
+    padding: 10px 20px;
+    background-color: #e7eaed;
+    color: rgb(42, 40, 40);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#details_Buttons button:hover {
+    background-color: #70b1f6;
+}
+#Details {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#Discription {
+    margin-top: 20px;
+}
+
+#Discription p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+#Support h1 {
+    text-align: center;
+    color: #333;
+}
+
+#Support ul {
+    list-style: none;
+    padding: 0;
+}
+
+#Support ul li {
+    margin: 5px 0;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
 }

@@ -9,8 +9,6 @@ const totalItems = document.getElementById("totalProducts");
 const baseURL = "http://localhost:3000/";
 let allProductsData = [];
 let currentData = [];
-let start = 0;
-const limit = 12;
 
 const fetchData = async (URL) => {
     try {
@@ -21,7 +19,42 @@ const fetchData = async (URL) => {
         console.log(err);
     }
 };
+let start=1;
+let limit=12;
 
+let baseURL="http://localhost:3000/";
+
+
+let displayProducts= async(URL)=>{
+let data=await fetchData(URL);
+// productsDisplay.innerHTML=""
+// document.getElementById("totalItems").innerText=`${data.length} Items`;
+for(let i=start;i<start+limit;i++){
+    let product=data[i];
+    let card=document.createElement("div");
+    card.className="card";
+    let img=document.createElement("img");
+    img.src=product.image;
+    let h3=document.createElement("h5");
+    h3.innerText=product.title;
+    let productName=document.createElement("p");
+    productName.innerText=product.product_name;
+    // let p=document.createElement("p");
+    // p.innerText=product.description;
+    let price=document.createElement("p");
+    price.innerText=`₹ ${product.price} (incl. of all taxes)`;
+    card.addEventListener("click", () => {
+      localStorage.setItem("current_productdetails", JSON.stringify(product));
+      window.location.href = "productDetails.html";
+  });
+    card.append(img,h3,productName,price);
+    productsDisplay.append(card);
+    // scrollsection.append(card);
+}
+}
+displayProducts(`${baseURL}Watches`);
+// displayProducts(`${baseURL}Musical_Instruments`);
+// displayProducts(`${baseURL}Calculators`);
 const getAllProducts = async () => {
     allProductsData = [];
     let watchesData = await fetchData(`${baseURL}Watches`);
