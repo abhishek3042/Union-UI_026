@@ -1,7 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Sora:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
-
+/* Updated CSS */
 :root {
     --white-color: #ffffff;
     --white-color-hover: #f1f1f1;
@@ -51,8 +48,6 @@ button {
     color: inherit;
     cursor: pointer;
 }
-
-
 
 .container {
     position: relative;
@@ -235,65 +230,42 @@ button {
     cursor: pointer;
 }
 
-@media screen and (max-width: 700px) {
-    .container {
-        margin: 25px;
-        padding: 25px;
-        align-items: flex-start;
-        height: 500px;
-        gap: 15px;
-    }
-
-    .box h2 {
-        display: none;
-    }
-
-    .box {
-        max-width: 80vw;
-        width: 100%;
-        padding: 0;
-        align-items: stretch;
-    }
-    
-    .form_container {
-        width: 500px;
-        max-width: 80vw;
-        height: 350px;
-        top: auto;
-        left: auto;
-        right: auto;
-        bottom: auto;
-        margin-top: 60px;
-    }
-
-    .form_box {
-        padding: 25px;
-    }
-
-    .form_box form {
-        padding: 25px;
-        width: 100%;
-        align-items: stretch;
-    }
-    
-    .primary,
-    .secondary,
-    .tab {
-        font-size: 15px;
-        padding: 5px 20px;
-    }
-
-    .form_box form > h3 {
-        font-size: 20px;
-    }
-
-    .form_slide .form_container {
-        left: auto;
-    }
-
-    .primary,
-    .secondary,
-    .tab {
-        padding: 10px
-    }
+#username-display-container {
+    display: none;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: var(--white-color);
+    font-size: 20px;
+    font-weight: bold;
 }
+
+#username-display {
+    margin-right: 10px;
+}
+
+#logoutButton {
+    padding: 10px 20px;
+    border: 1px solid var(--white-color);
+    border-radius: 5px;
+    background-color: transparent;
+    color: var(--white-color);
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+#logoutButton:hover {
+    background-color: var(--white-color);
+    color: var(--black-color);
+    border-color: var(--black-color);
+}
+
+body.form_slide {
+    background-color: var(--alternative-color);
+}
+
+body:not(.form_slide) {
+    background-color: var(--bg-color);
+}
+
